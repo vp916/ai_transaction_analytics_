@@ -1,0 +1,36 @@
+# One command starts the whole platform:  docker compose up --build
+# then seed demo data:                    docker compose exec server npm run seed
+services:
+  mongo:
+    image: mongo:7
+    volumes:
+      - mongo_data:/data/db
+
+  ml-service:                    # FastAPI + scikit-learn / XGBoost models
+    build: ./ml-service
+    ports:
+      - "8000:8000"
+
+  server:                        # Express + MongoDB REST API (JWT auth)
+    build: ./server
+    environment:
+      MONGO_URI: mongodb://mongo:27017/transaction_analytics
+      ML_SERVICE_URL: http://ml-service:8000
+      JWT_SECRET: ${JWT_SECRET:-change-me-in-production}
+      CLIENT_ORIGIN: http://localhost:3000
+      TZ: Asia/Kolkata
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mongo
+      - ml-service
+
+  client:                        # React + TypeScript dashboard served by nginx
+    build: ./client
+    ports:
+      - "3000:80"
+    depends_on:
+      - server
+
+volumes:
+  mongo_data:

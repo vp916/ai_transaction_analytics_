@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+ml-service/data/
+
+# Node
+node_modules/
+dist/
+
+# secrets
+.env

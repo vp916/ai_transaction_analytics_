@@ -1,0 +1,11 @@
+{
+  "random_split": {
+    "accuracy": 0.9558220454827886,
+    "macro_f1": 0.9304362751535071
+  },
+  "unseen_merchant_split": {
+    "accuracy": 0.4199321019621382,
+    "local_shop_accuracy": 0.9568743818001978,
+    "brand_accuracy": 0.20348580023002744
+  }
+}

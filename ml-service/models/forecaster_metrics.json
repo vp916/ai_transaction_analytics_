@@ -1,0 +1,21 @@
+{
+  "results": {
+    "baseline_last_month": {
+      "mae": 18659.575472222223,
+      "mape": 0.2787301294433781
+    },
+    "baseline_3month_average": {
+      "mae": 14816.057981481481,
+      "mape": 0.22020661331236238
+    },
+    "random_forest": {
+      "mae": 14392.516650576763,
+      "mape": 0.21492991584267657
+    },
+    "xgboost": {
+      "mae": 14644.990498054454,
+      "mape": 0.21630770563849516
+    }
+  },
+  "best_model": "random_forest"
+}

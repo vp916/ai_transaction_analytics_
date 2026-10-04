@@ -1,0 +1,3686 @@
+[
+ {
+  "timestamp":"2025-01-23T11:02:00",
+  "merchant":"Jio Recharge",
+  "description":"IMPS-262497-JIORECHARGE-PUN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-01-23T11:38:00",
+  "merchant":"Amazon Prime",
+  "description":"UPI\/6251074386\/AMAZONPRIME\/amazonprim@okhdfcbank\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-01-21T09:12:00",
+  "merchant":"Disney Hotstar",
+  "description":"UPI\/3155409723\/DISNEYHOTSTAR\/disneyhots@okhdfcbank\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-01-02T12:43:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/4349669163\/RAJKITCHEN\/rajkitchen@okicici\/Payment",
+  "amount":349.11
+ },
+ {
+  "timestamp":"2025-01-21T12:31:00",
+  "merchant":"Zomato",
+  "description":"Zomato Gurgaon",
+  "amount":213.45
+ },
+ {
+  "timestamp":"2025-01-27T19:54:00",
+  "merchant":"Burger King",
+  "description":"Burger King Vadodara",
+  "amount":392.03
+ },
+ {
+  "timestamp":"2025-01-05T19:00:00",
+  "merchant":"Third Wave Coffee",
+  "description":"Third Wave Coffee Gurgaon",
+  "amount":198.31
+ },
+ {
+  "timestamp":"2025-01-26T09:48:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-973372-RAJKITCHEN-MUM",
+  "amount":218.43
+ },
+ {
+  "timestamp":"2025-01-03T23:13:00",
+  "merchant":"Starbucks",
+  "description":"POS 4909XXXXXX4267 STARBUCKS BANGALORE",
+  "amount":7240.66
+ },
+ {
+  "timestamp":"2025-01-10T10:51:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 615998",
+  "amount":134.02
+ },
+ {
+  "timestamp":"2025-01-07T20:12:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN BANGALORE 982354",
+  "amount":150.37
+ },
+ {
+  "timestamp":"2025-01-28T21:34:00",
+  "merchant":"Dominos Pizza",
+  "description":"IMPS-848219-DOMINOSPIZZA-PUN",
+  "amount":204.8
+ },
+ {
+  "timestamp":"2025-01-03T12:14:00",
+  "merchant":"Dominos Pizza",
+  "description":"ACH D- DOMINOS PIZZA BANGALORE 486996",
+  "amount":248.15
+ },
+ {
+  "timestamp":"2025-01-08T22:40:00",
+  "merchant":"KFC",
+  "description":"UPI\/3790086665\/KFC\/kfc@okhdfcbank\/Payment",
+  "amount":238.99
+ },
+ {
+  "timestamp":"2025-01-31T23:12:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 252080",
+  "amount":296.9
+ },
+ {
+  "timestamp":"2025-01-19T13:44:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 643400",
+  "amount":196.1
+ },
+ {
+  "timestamp":"2025-01-21T13:57:00",
+  "merchant":"Burger King",
+  "description":"POS 4627XXXXXX4708 BURGER KING PUNE",
+  "amount":247.33
+ },
+ {
+  "timestamp":"2025-01-20T22:24:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Gurgaon",
+  "amount":449.66
+ },
+ {
+  "timestamp":"2025-01-22T17:14:00",
+  "merchant":"Sunil Rana",
+  "description":"POS 4038XXXXXX3752 SUNIL RANA VADODARA",
+  "amount":912.47
+ },
+ {
+  "timestamp":"2025-01-03T16:01:00",
+  "merchant":"City Provision Store",
+  "description":"IMPS-613063-CITYPROVISIO-CHE",
+  "amount":1607.92
+ },
+ {
+  "timestamp":"2025-01-07T10:36:00",
+  "merchant":"Reliance Fresh",
+  "description":"RELIANCE FRESH*ORDER 785286",
+  "amount":685.02
+ },
+ {
+  "timestamp":"2025-01-28T10:51:00",
+  "merchant":"BigBasket",
+  "description":"IMPS-620804-BIGBASKET-DEL",
+  "amount":2780.07
+ },
+ {
+  "timestamp":"2025-01-04T09:47:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"BHARAT GROCERY MART*ORDER 696471",
+  "amount":893.71
+ },
+ {
+  "timestamp":"2025-01-24T11:52:00",
+  "merchant":"City Provision Store",
+  "description":"CITY PROVISION STORE*ORDER 626519",
+  "amount":776.92
+ },
+ {
+  "timestamp":"2025-01-15T14:39:00",
+  "merchant":"Nature's Basket",
+  "description":"Nature's Basket Gurgaon",
+  "amount":335.87
+ },
+ {
+  "timestamp":"2025-01-10T15:52:00",
+  "merchant":"City Provision Store",
+  "description":"CITY PROVISION STORE*ORDER 224399",
+  "amount":494.43
+ },
+ {
+  "timestamp":"2025-01-22T14:49:00",
+  "merchant":"Hari Om Fuels",
+  "description":"ACH D- HARI OM FUELS DELHI 375377",
+  "amount":228.54
+ },
+ {
+  "timestamp":"2025-01-27T19:27:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"Jai Ambe Car Wash Gurgaon",
+  "amount":28.77
+ },
+ {
+  "timestamp":"2025-01-07T15:45:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"IMPS-551652-JAIAMBECARWA-BAN",
+  "amount":618.1
+ },
+ {
+  "timestamp":"2025-01-23T11:16:00",
+  "merchant":"Hari Om Fuels",
+  "description":"HARI OM FUELS*ORDER 778388",
+  "amount":412.41
+ },
+ {
+  "timestamp":"2025-01-06T14:53:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"JAI AMBE CAR WASH*ORDER 377916",
+  "amount":115.06
+ },
+ {
+  "timestamp":"2025-01-17T16:49:00",
+  "merchant":"Indian Oil",
+  "description":"Indian Oil Delhi",
+  "amount":202.49
+ },
+ {
+  "timestamp":"2025-01-26T14:11:00",
+  "merchant":"Indian Oil",
+  "description":"POS 4747XXXXXX6743 INDIAN OIL VADODARA",
+  "amount":296.92
+ },
+ {
+  "timestamp":"2025-01-02T13:47:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"JAI AMBE CAR WASH*ORDER 216702",
+  "amount":816.89
+ },
+ {
+  "timestamp":"2025-01-03T15:46:00",
+  "merchant":"Namma Yatri",
+  "description":"POS 4184XXXXXX8865 NAMMA YATRI HYDERABAD",
+  "amount":532.2
+ },
+ {
+  "timestamp":"2025-01-04T13:23:00",
+  "merchant":"Reliance Digital",
+  "description":"Reliance Digital Hyderabad",
+  "amount":2841.23
+ },
+ {
+  "timestamp":"2025-01-12T14:23:00",
+  "merchant":"Ajio",
+  "description":"IMPS-126604-AJIO-GUR",
+  "amount":1264.82
+ },
+ {
+  "timestamp":"2025-01-29T12:49:00",
+  "merchant":"Krishna Garments",
+  "description":"KRISHNA GARMENTS*ORDER 330768",
+  "amount":834.65
+ },
+ {
+  "timestamp":"2025-01-17T15:34:00",
+  "merchant":"Amazon",
+  "description":"IMPS-934134-AMAZON-GUR",
+  "amount":1357.96
+ },
+ {
+  "timestamp":"2025-01-27T14:46:00",
+  "merchant":"Flipkart",
+  "description":"UPI\/3329151292\/FLIPKART\/flipkart@okicici\/Payment",
+  "amount":11047.25
+ },
+ {
+  "timestamp":"2025-01-08T18:39:00",
+  "merchant":"Vi Recharge",
+  "description":"VI RECHARGE*ORDER 321917",
+  "amount":1025.04
+ },
+ {
+  "timestamp":"2025-01-04T18:30:00",
+  "merchant":"Mahalaxmi Telecom",
+  "description":"POS 4176XXXXXX6118 MAHALAXMI TELECOM MUMBAI",
+  "amount":649.2
+ },
+ {
+  "timestamp":"2025-01-06T15:51:00",
+  "merchant":"Tata Play",
+  "description":"ACH D- TATA PLAY DELHI 339278",
+  "amount":699.76
+ },
+ {
+  "timestamp":"2025-01-28T15:20:00",
+  "merchant":"Spotify",
+  "description":"IMPS-201872-SPOTIFY-VAD",
+  "amount":642.18
+ },
+ {
+  "timestamp":"2025-01-08T17:44:00",
+  "merchant":"Spotify",
+  "description":"SPOTIFY*ORDER 555827",
+  "amount":751.79
+ },
+ {
+  "timestamp":"2025-01-02T22:59:00",
+  "merchant":"Steam",
+  "description":"POS 4912XXXXXX5185 STEAM VADODARA",
+  "amount":659.7
+ },
+ {
+  "timestamp":"2025-01-24T15:50:00",
+  "merchant":"Netflix",
+  "description":"IMPS-736947-NETFLIX-DEL",
+  "amount":225.6
+ },
+ {
+  "timestamp":"2025-01-19T17:35:00",
+  "merchant":"Netmeds",
+  "description":"ACH D- NETMEDS DELHI 239617",
+  "amount":220.62
+ },
+ {
+  "timestamp":"2025-01-30T15:06:00",
+  "merchant":"Star Fitness Club",
+  "description":"Star Fitness Club Vadodara",
+  "amount":373.98
+ },
+ {
+  "timestamp":"2025-01-20T11:13:00",
+  "merchant":"MedPlus",
+  "description":"MedPlus Mumbai",
+  "amount":265.29
+ },
+ {
+  "timestamp":"2025-01-11T19:02:00",
+  "merchant":"MedPlus",
+  "description":"MedPlus Vadodara",
+  "amount":1129.95
+ },
+ {
+  "timestamp":"2025-01-23T20:45:00",
+  "merchant":"Patel Hospital",
+  "description":"PATEL HOSPITAL*ORDER 521802",
+  "amount":608.59
+ },
+ {
+  "timestamp":"2025-01-03T16:02:00",
+  "merchant":"Goibibo",
+  "description":"UPI\/9389019222\/GOIBIBO\/goibibo@ybl\/Payment",
+  "amount":10615.23
+ },
+ {
+  "timestamp":"2025-01-19T10:17:00",
+  "merchant":"Krishna Classes",
+  "description":"POS 4742XXXXXX5088 KRISHNA CLASSES VADODARA",
+  "amount":659.93
+ },
+ {
+  "timestamp":"2025-01-15T12:22:00",
+  "merchant":"NoBroker",
+  "description":"ACH D- NOBROKER HYDERABAD 710281",
+  "amount":7138.71
+ },
+ {
+  "timestamp":"2025-01-18T17:55:00",
+  "merchant":"NoBroker",
+  "description":"NOBROKER*ORDER 442386",
+  "amount":2243.94
+ },
+ {
+  "timestamp":"2025-02-23T08:45:00",
+  "merchant":"Jio Recharge",
+  "description":"UPI\/8928524041\/JIORECHARGE\/jiorecharg@okicici\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-02-23T11:48:00",
+  "merchant":"Amazon Prime",
+  "description":"IMPS-442865-AMAZONPRIME-PUN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-02-21T08:47:00",
+  "merchant":"Disney Hotstar",
+  "description":"Disney Hotstar Pune",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-02-22T22:15:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 625237",
+  "amount":234.09
+ },
+ {
+  "timestamp":"2025-02-18T14:14:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-487670-RAJKITCHEN-VAD",
+  "amount":485.56
+ },
+ {
+  "timestamp":"2025-02-13T14:34:00",
+  "merchant":"Burger King",
+  "description":"POS 4888XXXXXX8698 BURGER KING CHENNAI",
+  "amount":128.38
+ },
+ {
+  "timestamp":"2025-02-11T19:29:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/9413261659\/RAJKITCHEN\/rajkitchen@oksbi\/Payment",
+  "amount":362.06
+ },
+ {
+  "timestamp":"2025-02-25T12:11:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4827XXXXXX5191 RAJ KITCHEN PUNE",
+  "amount":201.93
+ },
+ {
+  "timestamp":"2025-02-19T20:49:00",
+  "merchant":"Dominos Pizza",
+  "description":"ACH D- DOMINOS PIZZA HYDERABAD 436020",
+  "amount":289.85
+ },
+ {
+  "timestamp":"2025-02-15T23:48:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/7934612624\/RAJKITCHEN\/rajkitchen@axl\/Payment",
+  "amount":624.34
+ },
+ {
+  "timestamp":"2025-02-13T13:40:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 621604",
+  "amount":282.47
+ },
+ {
+  "timestamp":"2025-02-25T14:17:00",
+  "merchant":"Starbucks",
+  "description":"ACH D- STARBUCKS BANGALORE 528882",
+  "amount":336.39
+ },
+ {
+  "timestamp":"2025-02-06T19:17:00",
+  "merchant":"Haldirams",
+  "description":"POS 4256XXXXXX4566 HALDIRAMS DELHI",
+  "amount":983.57
+ },
+ {
+  "timestamp":"2025-02-11T23:48:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/2760151408\/HALDIRAMS\/haldirams@oksbi\/Payment",
+  "amount":341.12
+ },
+ {
+  "timestamp":"2025-02-14T14:39:00",
+  "merchant":"Burger King",
+  "description":"Burger King Vadodara",
+  "amount":209.16
+ },
+ {
+  "timestamp":"2025-02-07T14:54:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 493858",
+  "amount":166.54
+ },
+ {
+  "timestamp":"2025-02-07T22:29:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/2221424234\/RAJKITCHEN\/rajkitchen@oksbi\/Payment",
+  "amount":112.51
+ },
+ {
+  "timestamp":"2025-02-07T12:00:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/2653659611\/RAJKITCHEN\/rajkitchen@ybl\/Payment",
+  "amount":205.9
+ },
+ {
+  "timestamp":"2025-02-13T12:16:00",
+  "merchant":"Amit Shah",
+  "description":"ACH D- AMIT SHAH GURGAON 787002",
+  "amount":445.58
+ },
+ {
+  "timestamp":"2025-02-24T20:28:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/8351606486\/HALDIRAMS\/haldirams@okhdfcbank\/Payment",
+  "amount":453.84
+ },
+ {
+  "timestamp":"2025-02-19T12:39:00",
+  "merchant":"Haldirams",
+  "description":"HALDIRAMS*ORDER 984533",
+  "amount":446.45
+ },
+ {
+  "timestamp":"2025-02-22T12:53:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4314XXXXXX3976 RAJ KITCHEN MUMBAI",
+  "amount":613.88
+ },
+ {
+  "timestamp":"2025-02-27T10:22:00",
+  "merchant":"Swiggy",
+  "description":"ACH D- SWIGGY GURGAON 650731",
+  "amount":433.53
+ },
+ {
+  "timestamp":"2025-02-12T15:05:00",
+  "merchant":"Nature's Basket",
+  "description":"UPI\/4030154763\/NATURESBASKET\/naturesbas@okicici\/Payment",
+  "amount":1148.7
+ },
+ {
+  "timestamp":"2025-02-09T16:00:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"IMPS-350575-BHARATGROCER-PUN",
+  "amount":1722.47
+ },
+ {
+  "timestamp":"2025-02-24T14:05:00",
+  "merchant":"More Supermarket",
+  "description":"POS 4077XXXXXX2282 MORE SUPERMARKET CHENNAI",
+  "amount":1283.51
+ },
+ {
+  "timestamp":"2025-02-20T13:45:00",
+  "merchant":"DMart",
+  "description":"POS 4715XXXXXX7320 DMART GURGAON",
+  "amount":234.14
+ },
+ {
+  "timestamp":"2025-02-23T14:20:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"ACH D- BHARAT GROCERY MART VADODARA 131695",
+  "amount":172.9
+ },
+ {
+  "timestamp":"2025-02-03T16:49:00",
+  "merchant":"Reliance Fresh",
+  "description":"POS 4582XXXXXX6659 RELIANCE FRESH CHENNAI",
+  "amount":1092.79
+ },
+ {
+  "timestamp":"2025-02-25T14:56:00",
+  "merchant":"Nature's Basket",
+  "description":"Nature's Basket Bangalore",
+  "amount":823.36
+ },
+ {
+  "timestamp":"2025-02-25T16:36:00",
+  "merchant":"Indian Oil",
+  "description":"UPI\/3749418500\/INDIANOIL\/indianoil@oksbi\/Payment",
+  "amount":583.05
+ },
+ {
+  "timestamp":"2025-02-05T12:27:00",
+  "merchant":"Hari Om Fuels",
+  "description":"Hari Om Fuels Delhi",
+  "amount":148.89
+ },
+ {
+  "timestamp":"2025-02-08T15:31:00",
+  "merchant":"Bharat Petroleum",
+  "description":"UPI\/1675978695\/BHARATPETROLEUM\/bharatpetr@okhdfcbank\/Payment",
+  "amount":147.71
+ },
+ {
+  "timestamp":"2025-02-23T19:26:00",
+  "merchant":"Ola",
+  "description":"IMPS-878779-OLA-CHE",
+  "amount":207.25
+ },
+ {
+  "timestamp":"2025-02-15T14:45:00",
+  "merchant":"Vikas Mehta",
+  "description":"POS 4288XXXXXX8312 VIKAS MEHTA PUNE",
+  "amount":824.49
+ },
+ {
+  "timestamp":"2025-02-13T17:24:00",
+  "merchant":"Ola",
+  "description":"OLA*ORDER 137549",
+  "amount":103.09
+ },
+ {
+  "timestamp":"2025-02-03T16:34:00",
+  "merchant":"Hari Om Fuels",
+  "description":"ACH D- HARI OM FUELS VADODARA 621466",
+  "amount":222.94
+ },
+ {
+  "timestamp":"2025-02-16T12:04:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"ACH D- JAI AMBE CAR WASH CHENNAI 822499",
+  "amount":276.55
+ },
+ {
+  "timestamp":"2025-02-17T13:32:00",
+  "merchant":"Hari Om Fuels",
+  "description":"Hari Om Fuels Chennai",
+  "amount":136.36
+ },
+ {
+  "timestamp":"2025-02-11T17:10:00",
+  "merchant":"Krishna Garments",
+  "description":"UPI\/6032578466\/KRISHNAGARMENTS\/krishnagar@axl\/Payment",
+  "amount":2826.67
+ },
+ {
+  "timestamp":"2025-02-03T17:10:00",
+  "merchant":"Croma",
+  "description":"UPI\/9192495801\/CROMA\/croma@oksbi\/Payment",
+  "amount":292.24
+ },
+ {
+  "timestamp":"2025-02-14T12:47:00",
+  "merchant":"Hari Om Footwear",
+  "description":"HARI OM FOOTWEAR*ORDER 254151",
+  "amount":2522.94
+ },
+ {
+  "timestamp":"2025-02-28T17:06:00",
+  "merchant":"Tata Power",
+  "description":"POS 4310XXXXXX8898 TATA POWER GURGAON",
+  "amount":916.21
+ },
+ {
+  "timestamp":"2025-02-16T10:28:00",
+  "merchant":"Ravi Verma",
+  "description":"ACH D- RAVI VERMA VADODARA 510175",
+  "amount":332.9
+ },
+ {
+  "timestamp":"2025-02-05T10:17:00",
+  "merchant":"MGVCL Electricity",
+  "description":"IMPS-973931-MGVCLELECTRI-MUM",
+  "amount":873.43
+ },
+ {
+  "timestamp":"2025-02-11T20:02:00",
+  "merchant":"Spotify",
+  "description":"Spotify Gurgaon",
+  "amount":691.79
+ },
+ {
+  "timestamp":"2025-02-25T14:24:00",
+  "merchant":"Sony LIV",
+  "description":"SONY LIV*ORDER 582850",
+  "amount":478.65
+ },
+ {
+  "timestamp":"2025-02-23T14:56:00",
+  "merchant":"PharmEasy",
+  "description":"PharmEasy Hyderabad",
+  "amount":1241.57
+ },
+ {
+  "timestamp":"2025-02-06T04:41:00",
+  "merchant":"International Online Store",
+  "description":"IMPS-612491-INTERNATIONA-GUR",
+  "amount":22930.47
+ },
+ {
+  "timestamp":"2025-02-25T17:04:00",
+  "merchant":"NoBroker",
+  "description":"IMPS-931776-NOBROKER-PUN",
+  "amount":6682.42
+ },
+ {
+  "timestamp":"2025-03-23T10:25:00",
+  "merchant":"Jio Recharge",
+  "description":"Jio Recharge Gurgaon",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-03-23T10:59:00",
+  "merchant":"Amazon Prime",
+  "description":"IMPS-642190-AMAZONPRIME-BAN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-03-21T11:22:00",
+  "merchant":"Disney Hotstar",
+  "description":"Disney Hotstar Hyderabad",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-03-30T20:56:00",
+  "merchant":"Starbucks",
+  "description":"Starbucks Pune",
+  "amount":181.42
+ },
+ {
+  "timestamp":"2025-03-13T20:12:00",
+  "merchant":"Burger King",
+  "description":"BURGER KING*ORDER 447506",
+  "amount":119.47
+ },
+ {
+  "timestamp":"2025-03-26T23:02:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Pune",
+  "amount":501.71
+ },
+ {
+  "timestamp":"2025-03-08T21:16:00",
+  "merchant":"Haldirams",
+  "description":"ACH D- HALDIRAMS DELHI 489950",
+  "amount":159.09
+ },
+ {
+  "timestamp":"2025-03-10T22:46:00",
+  "merchant":"Dominos Pizza",
+  "description":"UPI\/2679139926\/DOMINOSPIZZA\/dominospiz@axl\/Payment",
+  "amount":870.76
+ },
+ {
+  "timestamp":"2025-03-10T22:02:00",
+  "merchant":"Burger King",
+  "description":"IMPS-767136-BURGERKING-PUN",
+  "amount":372.89
+ },
+ {
+  "timestamp":"2025-03-18T09:36:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Vadodara",
+  "amount":607.27
+ },
+ {
+  "timestamp":"2025-03-18T10:18:00",
+  "merchant":"Haldirams",
+  "description":"POS 4774XXXXXX2802 HALDIRAMS HYDERABAD",
+  "amount":545.66
+ },
+ {
+  "timestamp":"2025-03-09T12:59:00",
+  "merchant":"Haldirams",
+  "description":"Haldirams Chennai",
+  "amount":111.65
+ },
+ {
+  "timestamp":"2025-03-09T23:17:00",
+  "merchant":"Haldirams",
+  "description":"POS 4933XXXXXX1038 HALDIRAMS VADODARA",
+  "amount":133.61
+ },
+ {
+  "timestamp":"2025-03-18T23:12:00",
+  "merchant":"Ravi Verma",
+  "description":"ACH D- RAVI VERMA DELHI 857862",
+  "amount":257.8
+ },
+ {
+  "timestamp":"2025-03-31T20:54:00",
+  "merchant":"Rahul Kumar",
+  "description":"Rahul Kumar Vadodara",
+  "amount":670.61
+ },
+ {
+  "timestamp":"2025-03-08T22:53:00",
+  "merchant":"Manoj Gupta",
+  "description":"IMPS-271492-MANOJGUPTA-HYD",
+  "amount":540.52
+ },
+ {
+  "timestamp":"2025-03-07T16:06:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"BHARAT GROCERY MART*ORDER 744466",
+  "amount":973.4
+ },
+ {
+  "timestamp":"2025-03-21T15:47:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"Bharat Grocery Mart Vadodara",
+  "amount":3206.07
+ },
+ {
+  "timestamp":"2025-03-08T17:35:00",
+  "merchant":"City Provision Store",
+  "description":"IMPS-769211-CITYPROVISIO-GUR",
+  "amount":852.7
+ },
+ {
+  "timestamp":"2025-03-30T17:47:00",
+  "merchant":"Rapido",
+  "description":"Rapido Bangalore",
+  "amount":144.11
+ },
+ {
+  "timestamp":"2025-03-27T22:14:00",
+  "merchant":"Uber",
+  "description":"IMPS-984692-UBER-PUN",
+  "amount":627.48
+ },
+ {
+  "timestamp":"2025-03-23T10:26:00",
+  "merchant":"Delhi Metro",
+  "description":"Delhi Metro Hyderabad",
+  "amount":304.58
+ },
+ {
+  "timestamp":"2025-03-31T15:19:00",
+  "merchant":"HP Petrol Pump",
+  "description":"HP PETROL PUMP*ORDER 881347",
+  "amount":323.28
+ },
+ {
+  "timestamp":"2025-03-23T15:03:00",
+  "merchant":"Decathlon",
+  "description":"ACH D- DECATHLON VADODARA 202943",
+  "amount":4097.94
+ },
+ {
+  "timestamp":"2025-03-28T15:57:00",
+  "merchant":"MGVCL Electricity",
+  "description":"ACH D- MGVCL ELECTRICITY GURGAON 756846",
+  "amount":1651.8
+ },
+ {
+  "timestamp":"2025-03-26T13:41:00",
+  "merchant":"Khodiyar Telecom",
+  "description":"POS 4470XXXXXX5396 KHODIYAR TELECOM BANGALORE",
+  "amount":868.38
+ },
+ {
+  "timestamp":"2025-03-13T13:10:00",
+  "merchant":"Tata Play",
+  "description":"UPI\/6942395816\/TATAPLAY\/tataplay@oksbi\/Payment",
+  "amount":1116.81
+ },
+ {
+  "timestamp":"2025-03-06T18:58:00",
+  "merchant":"MedPlus",
+  "description":"MEDPLUS*ORDER 543693",
+  "amount":841.19
+ },
+ {
+  "timestamp":"2025-03-09T13:45:00",
+  "merchant":"MedPlus",
+  "description":"MEDPLUS*ORDER 747967",
+  "amount":1353.55
+ },
+ {
+  "timestamp":"2025-03-29T17:41:00",
+  "merchant":"Netmeds",
+  "description":"NETMEDS*ORDER 587660",
+  "amount":1206.17
+ },
+ {
+  "timestamp":"2025-04-23T09:37:00",
+  "merchant":"Jio Recharge",
+  "description":"ACH D- JIO RECHARGE MUMBAI 160662",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-04-23T10:03:00",
+  "merchant":"Amazon Prime",
+  "description":"IMPS-966027-AMAZONPRIME-PUN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-04-21T08:53:00",
+  "merchant":"Disney Hotstar",
+  "description":"Disney Hotstar Gurgaon",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-04-02T22:22:00",
+  "merchant":"Zomato",
+  "description":"POS 4049XXXXXX5674 ZOMATO VADODARA",
+  "amount":351.44
+ },
+ {
+  "timestamp":"2025-04-11T13:06:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-821053-RAJKITCHEN-CHE",
+  "amount":360.18
+ },
+ {
+  "timestamp":"2025-04-09T14:44:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4861XXXXXX6249 RAJ KITCHEN CHENNAI",
+  "amount":311.89
+ },
+ {
+  "timestamp":"2025-04-13T10:39:00",
+  "merchant":"Haldirams",
+  "description":"Haldirams Delhi",
+  "amount":226.49
+ },
+ {
+  "timestamp":"2025-04-29T14:25:00",
+  "merchant":"Burger King",
+  "description":"POS 4619XXXXXX9048 BURGER KING PUNE",
+  "amount":437.38
+ },
+ {
+  "timestamp":"2025-04-16T22:40:00",
+  "merchant":"Dominos Pizza",
+  "description":"IMPS-831894-DOMINOSPIZZA-MUM",
+  "amount":366.48
+ },
+ {
+  "timestamp":"2025-04-22T19:25:00",
+  "merchant":"Zomato",
+  "description":"UPI\/9630037101\/ZOMATO\/zomato@okicici\/Payment",
+  "amount":437.57
+ },
+ {
+  "timestamp":"2025-04-17T20:33:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4566XXXXXX1977 RAJ KITCHEN MUMBAI",
+  "amount":136.32
+ },
+ {
+  "timestamp":"2025-04-25T20:08:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/2580766665\/HALDIRAMS\/haldirams@oksbi\/Payment",
+  "amount":167.73
+ },
+ {
+  "timestamp":"2025-04-25T21:44:00",
+  "merchant":"Starbucks",
+  "description":"ACH D- STARBUCKS HYDERABAD 202728",
+  "amount":396.95
+ },
+ {
+  "timestamp":"2025-04-22T09:59:00",
+  "merchant":"Starbucks",
+  "description":"Starbucks Hyderabad",
+  "amount":348.17
+ },
+ {
+  "timestamp":"2025-04-17T13:49:00",
+  "merchant":"Burger King",
+  "description":"Burger King Vadodara",
+  "amount":294.08
+ },
+ {
+  "timestamp":"2025-04-27T13:27:00",
+  "merchant":"Burger King",
+  "description":"IMPS-942761-BURGERKING-DEL",
+  "amount":669.48
+ },
+ {
+  "timestamp":"2025-04-28T09:24:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-656890-RAJKITCHEN-CHE",
+  "amount":226.99
+ },
+ {
+  "timestamp":"2025-04-13T22:25:00",
+  "merchant":"Deepak Jain",
+  "description":"DEEPAK JAIN*ORDER 166468",
+  "amount":192.86
+ },
+ {
+  "timestamp":"2025-04-17T21:22:00",
+  "merchant":"Amit Shah",
+  "description":"IMPS-688103-AMITSHAH-DEL",
+  "amount":464.72
+ },
+ {
+  "timestamp":"2025-04-28T19:41:00",
+  "merchant":"Chaayos",
+  "description":"UPI\/6127208322\/CHAAYOS\/chaayos@ybl\/Payment",
+  "amount":674.22
+ },
+ {
+  "timestamp":"2025-04-04T23:39:00",
+  "merchant":"Starbucks",
+  "description":"POS 4777XXXXXX8244 STARBUCKS DELHI",
+  "amount":194.03
+ },
+ {
+  "timestamp":"2025-04-08T13:21:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 775010",
+  "amount":666.49
+ },
+ {
+  "timestamp":"2025-04-01T14:40:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Hyderabad",
+  "amount":402.68
+ },
+ {
+  "timestamp":"2025-04-02T14:59:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/1302867925\/HALDIRAMS\/haldirams@axl\/Payment",
+  "amount":1095.18
+ },
+ {
+  "timestamp":"2025-04-17T09:44:00",
+  "merchant":"Swiggy",
+  "description":"IMPS-808405-SWIGGY-MUM",
+  "amount":185.74
+ },
+ {
+  "timestamp":"2025-04-27T13:17:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4649XXXXXX6321 RAJ KITCHEN CHENNAI",
+  "amount":263.44
+ },
+ {
+  "timestamp":"2025-04-28T20:11:00",
+  "merchant":"Haldirams",
+  "description":"IMPS-503802-HALDIRAMS-DEL",
+  "amount":322.89
+ },
+ {
+  "timestamp":"2025-04-28T23:03:00",
+  "merchant":"Dominos Pizza",
+  "description":"POS 4739XXXXXX1783 DOMINOS PIZZA GURGAON",
+  "amount":368.44
+ },
+ {
+  "timestamp":"2025-04-27T21:03:00",
+  "merchant":"Burger King",
+  "description":"BURGER KING*ORDER 270446",
+  "amount":236.26
+ },
+ {
+  "timestamp":"2025-04-04T10:31:00",
+  "merchant":"Burger King",
+  "description":"BURGER KING*ORDER 404284",
+  "amount":668.41
+ },
+ {
+  "timestamp":"2025-04-19T16:17:00",
+  "merchant":"BigBasket",
+  "description":"UPI\/8076835115\/BIGBASKET\/bigbasket@okhdfcbank\/Payment",
+  "amount":997.09
+ },
+ {
+  "timestamp":"2025-04-10T15:40:00",
+  "merchant":"Zepto",
+  "description":"UPI\/5318655411\/ZEPTO\/zepto@ybl\/Payment",
+  "amount":883.87
+ },
+ {
+  "timestamp":"2025-04-13T16:33:00",
+  "merchant":"City Provision Store",
+  "description":"UPI\/8208366788\/CITYPROVISIONSTORE\/cityprovis@ybl\/Payment",
+  "amount":830.98
+ },
+ {
+  "timestamp":"2025-04-30T15:22:00",
+  "merchant":"JioMart",
+  "description":"JIOMART*ORDER 922925",
+  "amount":1265.29
+ },
+ {
+  "timestamp":"2025-04-17T14:00:00",
+  "merchant":"City Provision Store",
+  "description":"POS 4733XXXXXX1754 CITY PROVISION STORE MUMBAI",
+  "amount":642.36
+ },
+ {
+  "timestamp":"2025-04-09T13:53:00",
+  "merchant":"DMart",
+  "description":"POS 4659XXXXXX1005 DMART BANGALORE",
+  "amount":1045.98
+ },
+ {
+  "timestamp":"2025-04-29T12:23:00",
+  "merchant":"JioMart",
+  "description":"IMPS-732314-JIOMART-HYD",
+  "amount":839.45
+ },
+ {
+  "timestamp":"2025-04-22T18:57:00",
+  "merchant":"Reliance Fresh",
+  "description":"UPI\/4225034307\/RELIANCEFRESH\/reliancefr@axl\/Payment",
+  "amount":680.85
+ },
+ {
+  "timestamp":"2025-04-12T10:01:00",
+  "merchant":"City Provision Store",
+  "description":"IMPS-569565-CITYPROVISIO-GUR",
+  "amount":1504.51
+ },
+ {
+  "timestamp":"2025-04-30T08:49:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"UPI\/3945151563\/BHARATGROCERYMART\/bharatgroc@okhdfcbank\/Payment",
+  "amount":648.33
+ },
+ {
+  "timestamp":"2025-04-15T14:06:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"ACH D- JAI AMBE CAR WASH GURGAON 762704",
+  "amount":247.2
+ },
+ {
+  "timestamp":"2025-04-02T15:49:00",
+  "merchant":"Rapido",
+  "description":"ACH D- RAPIDO CHENNAI 210898",
+  "amount":711.43
+ },
+ {
+  "timestamp":"2025-04-29T13:23:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"Jai Ambe Car Wash Hyderabad",
+  "amount":177.75
+ },
+ {
+  "timestamp":"2025-04-23T19:17:00",
+  "merchant":"Indian Oil",
+  "description":"IMPS-736663-INDIANOIL-GUR",
+  "amount":654.17
+ },
+ {
+  "timestamp":"2025-04-24T18:26:00",
+  "merchant":"Vikas Mehta",
+  "description":"ACH D- VIKAS MEHTA VADODARA 570372",
+  "amount":218.2
+ },
+ {
+  "timestamp":"2025-04-21T18:28:00",
+  "merchant":"HP Petrol Pump",
+  "description":"HP PETROL PUMP*ORDER 520057",
+  "amount":332.64
+ },
+ {
+  "timestamp":"2025-04-14T11:26:00",
+  "merchant":"Hari Om Footwear",
+  "description":"HARI OM FOOTWEAR*ORDER 863103",
+  "amount":1185.51
+ },
+ {
+  "timestamp":"2025-04-28T12:35:00",
+  "merchant":"Lifestyle",
+  "description":"ACH D- LIFESTYLE HYDERABAD 499202",
+  "amount":2690.42
+ },
+ {
+  "timestamp":"2025-04-05T12:15:00",
+  "merchant":"Reliance Digital",
+  "description":"ACH D- RELIANCE DIGITAL MUMBAI 816282",
+  "amount":3670.31
+ },
+ {
+  "timestamp":"2025-04-07T18:47:00",
+  "merchant":"Tata Power",
+  "description":"POS 4664XXXXXX3123 TATA POWER GURGAON",
+  "amount":1727.97
+ },
+ {
+  "timestamp":"2025-04-09T15:47:00",
+  "merchant":"MGVCL Electricity",
+  "description":"ACH D- MGVCL ELECTRICITY BANGALORE 618578",
+  "amount":1844.97
+ },
+ {
+  "timestamp":"2025-04-07T10:27:00",
+  "merchant":"MGVCL Electricity",
+  "description":"MGVCL ELECTRICITY*ORDER 202986",
+  "amount":508.55
+ },
+ {
+  "timestamp":"2025-04-22T15:13:00",
+  "merchant":"Khodiyar Telecom",
+  "description":"IMPS-929598-KHODIYARTELE-HYD",
+  "amount":1229.13
+ },
+ {
+  "timestamp":"2025-04-21T20:22:00",
+  "merchant":"Shiv Shakti Bowling",
+  "description":"ACH D- SHIV SHAKTI BOWLING DELHI 539454",
+  "amount":449.65
+ },
+ {
+  "timestamp":"2025-04-14T15:03:00",
+  "merchant":"Netmeds",
+  "description":"POS 4116XXXXXX4471 NETMEDS GURGAON",
+  "amount":1173.57
+ },
+ {
+  "timestamp":"2025-04-20T10:00:00",
+  "merchant":"Patel Hospital",
+  "description":"ACH D- PATEL HOSPITAL DELHI 194560",
+  "amount":876.59
+ },
+ {
+  "timestamp":"2025-04-27T18:29:00",
+  "merchant":"Star Fitness Club",
+  "description":"UPI\/5451932852\/STARFITNESSCLUB\/starfitnes@oksbi\/Payment",
+  "amount":195.32
+ },
+ {
+  "timestamp":"2025-04-22T10:46:00",
+  "merchant":"Star Fitness Club",
+  "description":"UPI\/8116463647\/STARFITNESSCLUB\/starfitnes@paytm\/Payment",
+  "amount":2078.12
+ },
+ {
+  "timestamp":"2025-04-09T10:58:00",
+  "merchant":"PharmEasy",
+  "description":"POS 4096XXXXXX8374 PHARMEASY CHENNAI",
+  "amount":387.88
+ },
+ {
+  "timestamp":"2025-04-07T09:02:00",
+  "merchant":"IRCTC",
+  "description":"POS 4283XXXXXX4556 IRCTC CHENNAI",
+  "amount":22841.71
+ },
+ {
+  "timestamp":"2025-04-21T10:06:00",
+  "merchant":"Priya Patel",
+  "description":"ACH D- PRIYA PATEL DELHI 310289",
+  "amount":3497.86
+ },
+ {
+  "timestamp":"2025-04-14T16:40:00",
+  "merchant":"IRCTC",
+  "description":"POS 4577XXXXXX1810 IRCTC GURGAON",
+  "amount":2084.56
+ },
+ {
+  "timestamp":"2025-04-08T16:05:00",
+  "merchant":"IndiGo",
+  "description":"IMPS-950751-INDIGO-GUR",
+  "amount":3572.35
+ },
+ {
+  "timestamp":"2025-04-22T11:35:00",
+  "merchant":"Sapna Book House",
+  "description":"POS 4661XXXXXX7051 SAPNA BOOK HOUSE VADODARA",
+  "amount":12365.62
+ },
+ {
+  "timestamp":"2025-04-05T23:59:00",
+  "merchant":"Balaji Interiors",
+  "description":"IMPS-479364-BALAJIINTERI-PUN",
+  "amount":435.7
+ },
+ {
+  "timestamp":"2025-05-23T09:40:00",
+  "merchant":"Jio Recharge",
+  "description":"ACH D- JIO RECHARGE HYDERABAD 417230",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-05-23T11:23:00",
+  "merchant":"Amazon Prime",
+  "description":"ACH D- AMAZON PRIME BANGALORE 296042",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-05-21T10:05:00",
+  "merchant":"Disney Hotstar",
+  "description":"UPI\/1104589552\/DISNEYHOTSTAR\/disneyhots@axl\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-05-13T02:44:00",
+  "merchant":"Haldirams",
+  "description":"POS 4154XXXXXX3748 HALDIRAMS PUNE",
+  "amount":5034.84
+ },
+ {
+  "timestamp":"2025-05-11T10:56:00",
+  "merchant":"McDonalds",
+  "description":"UPI\/4532499691\/MCDONALDS\/mcdonalds@axl\/Payment",
+  "amount":307.79
+ },
+ {
+  "timestamp":"2025-05-26T13:26:00",
+  "merchant":"Dominos Pizza",
+  "description":"UPI\/1955825523\/DOMINOSPIZZA\/dominospiz@ybl\/Payment",
+  "amount":219.06
+ },
+ {
+  "timestamp":"2025-05-29T20:08:00",
+  "merchant":"Haldirams",
+  "description":"IMPS-915874-HALDIRAMS-VAD",
+  "amount":528.77
+ },
+ {
+  "timestamp":"2025-05-28T19:41:00",
+  "merchant":"Priya Patel",
+  "description":"UPI\/2706277612\/PRIYAPATEL\/priyapatel@paytm\/Payment",
+  "amount":501.13
+ },
+ {
+  "timestamp":"2025-05-01T22:15:00",
+  "merchant":"Burger King",
+  "description":"Burger King Gurgaon",
+  "amount":211.91
+ },
+ {
+  "timestamp":"2025-05-08T22:06:00",
+  "merchant":"Burger King",
+  "description":"Burger King Vadodara",
+  "amount":213.58
+ },
+ {
+  "timestamp":"2025-05-13T14:12:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4625XXXXXX3232 RAJ KITCHEN PUNE",
+  "amount":803.2
+ },
+ {
+  "timestamp":"2025-05-24T12:41:00",
+  "merchant":"Haldirams",
+  "description":"IMPS-314243-HALDIRAMS-DEL",
+  "amount":203.43
+ },
+ {
+  "timestamp":"2025-05-05T20:00:00",
+  "merchant":"Burger King",
+  "description":"UPI\/7940679920\/BURGERKING\/burgerking@oksbi\/Payment",
+  "amount":246.67
+ },
+ {
+  "timestamp":"2025-05-21T19:43:00",
+  "merchant":"Starbucks",
+  "description":"UPI\/8674212626\/STARBUCKS\/starbucks@oksbi\/Payment",
+  "amount":413.84
+ },
+ {
+  "timestamp":"2025-05-10T10:59:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-163833-RAJKITCHEN-HYD",
+  "amount":346.85
+ },
+ {
+  "timestamp":"2025-05-02T13:55:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 421841",
+  "amount":543.12
+ },
+ {
+  "timestamp":"2025-05-12T09:16:00",
+  "merchant":"Burger King",
+  "description":"POS 4882XXXXXX1025 BURGER KING CHENNAI",
+  "amount":339.63
+ },
+ {
+  "timestamp":"2025-05-27T22:38:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/9915726046\/RAJKITCHEN\/rajkitchen@ybl\/Payment",
+  "amount":224.01
+ },
+ {
+  "timestamp":"2025-05-21T09:24:00",
+  "merchant":"Starbucks",
+  "description":"POS 4687XXXXXX5596 STARBUCKS HYDERABAD",
+  "amount":540.18
+ },
+ {
+  "timestamp":"2025-05-22T16:12:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"BHARAT GROCERY MART*ORDER 561151",
+  "amount":1868.85
+ },
+ {
+  "timestamp":"2025-05-07T12:06:00",
+  "merchant":"DMart",
+  "description":"DMART*ORDER 290945",
+  "amount":13633.9
+ },
+ {
+  "timestamp":"2025-05-28T22:13:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"ACH D- BHARAT GROCERY MART GURGAON 503502",
+  "amount":1218.21
+ },
+ {
+  "timestamp":"2025-05-25T16:17:00",
+  "merchant":"Suresh Yadav",
+  "description":"IMPS-318451-SURESHYADAV-GUR",
+  "amount":873.52
+ },
+ {
+  "timestamp":"2025-05-24T16:50:00",
+  "merchant":"Nature's Basket",
+  "description":"ACH D- NATURE'S BASKET DELHI 942405",
+  "amount":296.29
+ },
+ {
+  "timestamp":"2025-05-23T14:49:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"ACH D- BHARAT GROCERY MART BANGALORE 587754",
+  "amount":1020.01
+ },
+ {
+  "timestamp":"2025-05-07T10:04:00",
+  "merchant":"Indian Oil",
+  "description":"ACH D- INDIAN OIL DELHI 504176",
+  "amount":208.51
+ },
+ {
+  "timestamp":"2025-05-03T11:53:00",
+  "merchant":"Ravi Verma",
+  "description":"RAVI VERMA*ORDER 159257",
+  "amount":870.46
+ },
+ {
+  "timestamp":"2025-05-23T14:45:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"ACH D- JAI AMBE CAR WASH BANGALORE 865835",
+  "amount":287.25
+ },
+ {
+  "timestamp":"2025-05-19T13:03:00",
+  "merchant":"Indian Oil",
+  "description":"UPI\/9827143583\/INDIANOIL\/indianoil@ybl\/Payment",
+  "amount":1069.03
+ },
+ {
+  "timestamp":"2025-05-05T10:37:00",
+  "merchant":"Hari Om Fuels",
+  "description":"UPI\/7519608156\/HARIOMFUELS\/hariomfuel@axl\/Payment",
+  "amount":292.05
+ },
+ {
+  "timestamp":"2025-05-12T22:45:00",
+  "merchant":"Rapido",
+  "description":"POS 4668XXXXXX7780 RAPIDO GURGAON",
+  "amount":458.17
+ },
+ {
+  "timestamp":"2025-05-12T14:15:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"JAI AMBE CAR WASH*ORDER 629333",
+  "amount":155.05
+ },
+ {
+  "timestamp":"2025-05-16T13:44:00",
+  "merchant":"Neha Singh",
+  "description":"UPI\/4008736769\/NEHASINGH\/nehasingh@okicici\/Payment",
+  "amount":209.4
+ },
+ {
+  "timestamp":"2025-05-11T13:10:00",
+  "merchant":"Krishna Garments",
+  "description":"POS 4654XXXXXX9989 KRISHNA GARMENTS DELHI",
+  "amount":6173.09
+ },
+ {
+  "timestamp":"2025-05-24T11:21:00",
+  "merchant":"BESCOM",
+  "description":"ACH D- BESCOM HYDERABAD 490722",
+  "amount":599.77
+ },
+ {
+  "timestamp":"2025-05-08T14:21:00",
+  "merchant":"MGVCL Electricity",
+  "description":"MGVCL Electricity Gurgaon",
+  "amount":986.59
+ },
+ {
+  "timestamp":"2025-05-10T11:44:00",
+  "merchant":"Vikas Mehta",
+  "description":"IMPS-111171-VIKASMEHTA-CHE",
+  "amount":583.94
+ },
+ {
+  "timestamp":"2025-05-17T13:03:00",
+  "merchant":"Khodiyar Telecom",
+  "description":"POS 4934XXXXXX8631 KHODIYAR TELECOM CHENNAI",
+  "amount":1629.39
+ },
+ {
+  "timestamp":"2025-05-23T10:55:00",
+  "merchant":"Mahanagar Gas",
+  "description":"Mahanagar Gas Delhi",
+  "amount":2739.35
+ },
+ {
+  "timestamp":"2025-05-16T15:41:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"IMPS-504339-MAHALAXMIMUL-VAD",
+  "amount":1099.5
+ },
+ {
+  "timestamp":"2025-05-09T07:55:00",
+  "merchant":"Anita Rao",
+  "description":"UPI\/3047823402\/ANITARAO\/anitarao@ybl\/Payment",
+  "amount":398.77
+ },
+ {
+  "timestamp":"2025-05-06T13:00:00",
+  "merchant":"MedPlus",
+  "description":"IMPS-758222-MEDPLUS-MUM",
+  "amount":806.31
+ },
+ {
+  "timestamp":"2025-05-03T20:37:00",
+  "merchant":"Star Fitness Club",
+  "description":"Star Fitness Club Bangalore",
+  "amount":307.83
+ },
+ {
+  "timestamp":"2025-05-16T10:03:00",
+  "merchant":"Netmeds",
+  "description":"UPI\/4651542150\/NETMEDS\/netmeds@oksbi\/Payment",
+  "amount":179.6
+ },
+ {
+  "timestamp":"2025-05-17T10:44:00",
+  "merchant":"Laxmi Electricals",
+  "description":"ACH D- LAXMI ELECTRICALS GURGAON 436044",
+  "amount":1140.95
+ },
+ {
+  "timestamp":"2025-06-23T11:40:00",
+  "merchant":"Jio Recharge",
+  "description":"JIO RECHARGE*ORDER 723555",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-06-23T11:49:00",
+  "merchant":"Amazon Prime",
+  "description":"AMAZON PRIME*ORDER 486992",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-06-21T10:24:00",
+  "merchant":"Disney Hotstar",
+  "description":"ACH D- DISNEY HOTSTAR BANGALORE 543723",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-06-04T14:16:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 943258",
+  "amount":637.09
+ },
+ {
+  "timestamp":"2025-06-03T23:06:00",
+  "merchant":"Burger King",
+  "description":"Burger King Pune",
+  "amount":341.81
+ },
+ {
+  "timestamp":"2025-06-27T09:57:00",
+  "merchant":"Burger King",
+  "description":"UPI\/3099707813\/BURGERKING\/burgerking@ybl\/Payment",
+  "amount":308.01
+ },
+ {
+  "timestamp":"2025-06-03T12:15:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4543XXXXXX1123 RAJ KITCHEN BANGALORE",
+  "amount":107.28
+ },
+ {
+  "timestamp":"2025-06-03T19:41:00",
+  "merchant":"Burger King",
+  "description":"POS 4840XXXXXX4591 BURGER KING DELHI",
+  "amount":250.8
+ },
+ {
+  "timestamp":"2025-06-24T10:55:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/2189074165\/RAJKITCHEN\/rajkitchen@ybl\/Payment",
+  "amount":216.99
+ },
+ {
+  "timestamp":"2025-06-26T12:12:00",
+  "merchant":"Third Wave Coffee",
+  "description":"ACH D- THIRD WAVE COFFEE MUMBAI 881028",
+  "amount":205.73
+ },
+ {
+  "timestamp":"2025-06-22T19:06:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 927268",
+  "amount":687.85
+ },
+ {
+  "timestamp":"2025-06-30T12:19:00",
+  "merchant":"More Supermarket",
+  "description":"UPI\/8390649035\/MORESUPERMARKET\/moresuperm@okhdfcbank\/Payment",
+  "amount":970.63
+ },
+ {
+  "timestamp":"2025-06-05T13:12:00",
+  "merchant":"Blinkit",
+  "description":"POS 4558XXXXXX4457 BLINKIT DELHI",
+  "amount":2119.21
+ },
+ {
+  "timestamp":"2025-06-09T16:35:00",
+  "merchant":"City Provision Store",
+  "description":"CITY PROVISION STORE*ORDER 898680",
+  "amount":589.95
+ },
+ {
+  "timestamp":"2025-06-15T18:35:00",
+  "merchant":"JioMart",
+  "description":"JIOMART*ORDER 968639",
+  "amount":1185.16
+ },
+ {
+  "timestamp":"2025-06-22T14:45:00",
+  "merchant":"Rapido",
+  "description":"POS 4550XXXXXX3629 RAPIDO PUNE",
+  "amount":464.21
+ },
+ {
+  "timestamp":"2025-06-27T13:07:00",
+  "merchant":"Bharat Petroleum",
+  "description":"IMPS-516557-BHARATPETROL-CHE",
+  "amount":775.7
+ },
+ {
+  "timestamp":"2025-06-25T21:47:00",
+  "merchant":"Indian Oil",
+  "description":"INDIAN OIL*ORDER 906898",
+  "amount":224.14
+ },
+ {
+  "timestamp":"2025-06-20T16:01:00",
+  "merchant":"Ola",
+  "description":"ACH D- OLA VADODARA 645435",
+  "amount":1387.51
+ },
+ {
+  "timestamp":"2025-06-30T12:12:00",
+  "merchant":"Hari Om Fuels",
+  "description":"ACH D- HARI OM FUELS HYDERABAD 949850",
+  "amount":671.84
+ },
+ {
+  "timestamp":"2025-06-25T07:00:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"ACH D- JAI AMBE CAR WASH VADODARA 844500",
+  "amount":429.87
+ },
+ {
+  "timestamp":"2025-06-25T17:06:00",
+  "merchant":"Deepak Jain",
+  "description":"Deepak Jain Pune",
+  "amount":122.27
+ },
+ {
+  "timestamp":"2025-06-11T11:29:00",
+  "merchant":"Rapido",
+  "description":"POS 4491XXXXXX3983 RAPIDO VADODARA",
+  "amount":371.69
+ },
+ {
+  "timestamp":"2025-06-23T18:36:00",
+  "merchant":"Hari Om Fuels",
+  "description":"HARI OM FUELS*ORDER 356145",
+  "amount":135.13
+ },
+ {
+  "timestamp":"2025-06-15T17:59:00",
+  "merchant":"Rapido",
+  "description":"IMPS-601330-RAPIDO-PUN",
+  "amount":522.33
+ },
+ {
+  "timestamp":"2025-06-16T13:16:00",
+  "merchant":"Hari Om Fuels",
+  "description":"HARI OM FUELS*ORDER 965805",
+  "amount":577.65
+ },
+ {
+  "timestamp":"2025-06-23T14:20:00",
+  "merchant":"Hari Om Fuels",
+  "description":"UPI\/9245458528\/HARIOMFUELS\/hariomfuel@paytm\/Payment",
+  "amount":575.71
+ },
+ {
+  "timestamp":"2025-06-28T22:10:00",
+  "merchant":"Rapido",
+  "description":"ACH D- RAPIDO PUNE 449404",
+  "amount":231.31
+ },
+ {
+  "timestamp":"2025-06-28T21:58:00",
+  "merchant":"Delhi Metro",
+  "description":"UPI\/9314052352\/DELHIMETRO\/delhimetro@axl\/Payment",
+  "amount":462.14
+ },
+ {
+  "timestamp":"2025-06-15T15:56:00",
+  "merchant":"Hari Om Footwear",
+  "description":"POS 4121XXXXXX3728 HARI OM FOOTWEAR MUMBAI",
+  "amount":7033.77
+ },
+ {
+  "timestamp":"2025-06-20T14:39:00",
+  "merchant":"Lifestyle",
+  "description":"Lifestyle Delhi",
+  "amount":1755.12
+ },
+ {
+  "timestamp":"2025-06-12T16:11:00",
+  "merchant":"Amazon",
+  "description":"IMPS-531274-AMAZON-DEL",
+  "amount":1447.66
+ },
+ {
+  "timestamp":"2025-06-05T12:44:00",
+  "merchant":"Krishna Garments",
+  "description":"KRISHNA GARMENTS*ORDER 626828",
+  "amount":1668.96
+ },
+ {
+  "timestamp":"2025-06-23T16:19:00",
+  "merchant":"Hari Om Footwear",
+  "description":"Hari Om Footwear Mumbai",
+  "amount":13336.67
+ },
+ {
+  "timestamp":"2025-06-07T16:22:00",
+  "merchant":"MGVCL Electricity",
+  "description":"MGVCL Electricity Mumbai",
+  "amount":786.94
+ },
+ {
+  "timestamp":"2025-06-04T18:23:00",
+  "merchant":"MGVCL Electricity",
+  "description":"ACH D- MGVCL ELECTRICITY VADODARA 897214",
+  "amount":780.83
+ },
+ {
+  "timestamp":"2025-06-14T10:17:00",
+  "merchant":"ACT Fibernet",
+  "description":"ACT FIBERNET*ORDER 226693",
+  "amount":765.47
+ },
+ {
+  "timestamp":"2025-06-13T16:21:00",
+  "merchant":"Tata Play",
+  "description":"Tata Play Bangalore",
+  "amount":876.08
+ },
+ {
+  "timestamp":"2025-06-08T10:15:00",
+  "merchant":"Sunil Rana",
+  "description":"ACH D- SUNIL RANA CHENNAI 940583",
+  "amount":1315.26
+ },
+ {
+  "timestamp":"2025-06-14T12:07:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"IMPS-605847-MAHALAXMIMUL-BAN",
+  "amount":964.29
+ },
+ {
+  "timestamp":"2025-06-14T13:33:00",
+  "merchant":"Amazon Prime",
+  "description":"AMAZON PRIME*ORDER 492578",
+  "amount":228.58
+ },
+ {
+  "timestamp":"2025-06-18T12:12:00",
+  "merchant":"Shiv Shakti Bowling",
+  "description":"UPI\/5153888173\/SHIVSHAKTIBOWLING\/shivshakti@paytm\/Payment",
+  "amount":224.54
+ },
+ {
+  "timestamp":"2025-06-01T21:55:00",
+  "merchant":"Netflix",
+  "description":"UPI\/4839978361\/NETFLIX\/netflix@okicici\/Payment",
+  "amount":476.64
+ },
+ {
+  "timestamp":"2025-06-20T15:28:00",
+  "merchant":"Patel Hospital",
+  "description":"PATEL HOSPITAL*ORDER 194521",
+  "amount":672.35
+ },
+ {
+  "timestamp":"2025-06-13T15:18:00",
+  "merchant":"Amit Shah",
+  "description":"AMIT SHAH*ORDER 781306",
+  "amount":135.3
+ },
+ {
+  "timestamp":"2025-06-19T11:02:00",
+  "merchant":"Netmeds",
+  "description":"IMPS-376039-NETMEDS-CHE",
+  "amount":949.16
+ },
+ {
+  "timestamp":"2025-07-23T10:58:00",
+  "merchant":"Jio Recharge",
+  "description":"IMPS-391001-JIORECHARGE-BAN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-07-23T10:00:00",
+  "merchant":"Amazon Prime",
+  "description":"POS 4666XXXXXX6220 AMAZON PRIME GURGAON",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-07-21T08:07:00",
+  "merchant":"Disney Hotstar",
+  "description":"Disney Hotstar Gurgaon",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-07-07T21:06:00",
+  "merchant":"Dominos Pizza",
+  "description":"UPI\/6969801783\/DOMINOSPIZZA\/dominospiz@oksbi\/Payment",
+  "amount":621.59
+ },
+ {
+  "timestamp":"2025-07-25T22:25:00",
+  "merchant":"Haldirams",
+  "description":"ACH D- HALDIRAMS MUMBAI 760557",
+  "amount":363.48
+ },
+ {
+  "timestamp":"2025-07-30T13:18:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 342830",
+  "amount":193.12
+ },
+ {
+  "timestamp":"2025-07-25T22:52:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 767761",
+  "amount":566.69
+ },
+ {
+  "timestamp":"2025-07-07T14:34:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/2856081365\/HALDIRAMS\/haldirams@oksbi\/Payment",
+  "amount":384.03
+ },
+ {
+  "timestamp":"2025-07-04T23:52:00",
+  "merchant":"Third Wave Coffee",
+  "description":"ACH D- THIRD WAVE COFFEE BANGALORE 842359",
+  "amount":909.61
+ },
+ {
+  "timestamp":"2025-07-27T09:51:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 196342",
+  "amount":809.34
+ },
+ {
+  "timestamp":"2025-07-27T10:02:00",
+  "merchant":"Priya Patel",
+  "description":"Priya Patel Hyderabad",
+  "amount":300.67
+ },
+ {
+  "timestamp":"2025-07-22T19:41:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/2999935534\/RAJKITCHEN\/rajkitchen@axl\/Payment",
+  "amount":298.13
+ },
+ {
+  "timestamp":"2025-07-28T12:22:00",
+  "merchant":"Dominos Pizza",
+  "description":"IMPS-209054-DOMINOSPIZZA-VAD",
+  "amount":367.46
+ },
+ {
+  "timestamp":"2025-07-26T19:34:00",
+  "merchant":"Burger King",
+  "description":"POS 4734XXXXXX3047 BURGER KING VADODARA",
+  "amount":855.63
+ },
+ {
+  "timestamp":"2025-07-27T22:31:00",
+  "merchant":"Burger King",
+  "description":"UPI\/2945892744\/BURGERKING\/burgerking@okicici\/Payment",
+  "amount":217.32
+ },
+ {
+  "timestamp":"2025-07-17T23:31:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 774973",
+  "amount":489.49
+ },
+ {
+  "timestamp":"2025-07-05T09:40:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN DELHI 558238",
+  "amount":243.09
+ },
+ {
+  "timestamp":"2025-07-05T14:29:00",
+  "merchant":"Haldirams",
+  "description":"Haldirams Delhi",
+  "amount":360.74
+ },
+ {
+  "timestamp":"2025-07-10T21:59:00",
+  "merchant":"Burger King",
+  "description":"Burger King Bangalore",
+  "amount":483.01
+ },
+ {
+  "timestamp":"2025-07-15T19:43:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 553120",
+  "amount":219.49
+ },
+ {
+  "timestamp":"2025-07-17T10:49:00",
+  "merchant":"McDonalds",
+  "description":"ACH D- MCDONALDS PUNE 906308",
+  "amount":345.13
+ },
+ {
+  "timestamp":"2025-07-05T17:37:00",
+  "merchant":"JioMart",
+  "description":"JioMart Chennai",
+  "amount":1875.23
+ },
+ {
+  "timestamp":"2025-07-12T13:11:00",
+  "merchant":"DMart",
+  "description":"DMart Delhi",
+  "amount":4158.9
+ },
+ {
+  "timestamp":"2025-07-12T11:13:00",
+  "merchant":"Zepto",
+  "description":"IMPS-945893-ZEPTO-VAD",
+  "amount":2022.07
+ },
+ {
+  "timestamp":"2025-07-27T11:52:00",
+  "merchant":"City Provision Store",
+  "description":"ACH D- CITY PROVISION STORE VADODARA 856370",
+  "amount":1432.93
+ },
+ {
+  "timestamp":"2025-07-12T16:02:00",
+  "merchant":"JioMart",
+  "description":"JioMart Hyderabad",
+  "amount":430.3
+ },
+ {
+  "timestamp":"2025-07-06T17:40:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"POS 4173XXXXXX1886 BHARAT GROCERY MART HYDERABAD",
+  "amount":1251.68
+ },
+ {
+  "timestamp":"2025-07-24T11:39:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"UPI\/6425244223\/BHARATGROCERYMART\/bharatgroc@oksbi\/Payment",
+  "amount":789.29
+ },
+ {
+  "timestamp":"2025-07-31T15:13:00",
+  "merchant":"BigBasket",
+  "description":"BIGBASKET*ORDER 787740",
+  "amount":2205.1
+ },
+ {
+  "timestamp":"2025-07-15T09:24:00",
+  "merchant":"Rapido",
+  "description":"UPI\/3671736108\/RAPIDO\/rapido@oksbi\/Payment",
+  "amount":107.95
+ },
+ {
+  "timestamp":"2025-07-01T12:07:00",
+  "merchant":"Rapido",
+  "description":"ACH D- RAPIDO BANGALORE 464238",
+  "amount":775.21
+ },
+ {
+  "timestamp":"2025-07-21T10:34:00",
+  "merchant":"Hari Om Fuels",
+  "description":"IMPS-542553-HARIOMFUELS-PUN",
+  "amount":131.48
+ },
+ {
+  "timestamp":"2025-07-18T15:19:00",
+  "merchant":"Rapido",
+  "description":"ACH D- RAPIDO DELHI 949264",
+  "amount":565.69
+ },
+ {
+  "timestamp":"2025-07-09T08:03:00",
+  "merchant":"Indian Oil",
+  "description":"UPI\/5773138969\/INDIANOIL\/indianoil@oksbi\/Payment",
+  "amount":1122.57
+ },
+ {
+  "timestamp":"2025-07-03T16:36:00",
+  "merchant":"Delhi Metro",
+  "description":"UPI\/8652435323\/DELHIMETRO\/delhimetro@ybl\/Payment",
+  "amount":323.39
+ },
+ {
+  "timestamp":"2025-07-22T10:10:00",
+  "merchant":"Namma Yatri",
+  "description":"ACH D- NAMMA YATRI MUMBAI 121078",
+  "amount":590.83
+ },
+ {
+  "timestamp":"2025-07-24T18:02:00",
+  "merchant":"Ola",
+  "description":"Ola Vadodara",
+  "amount":192.66
+ },
+ {
+  "timestamp":"2025-07-09T12:46:00",
+  "merchant":"Ola",
+  "description":"Ola Gurgaon",
+  "amount":309.5
+ },
+ {
+  "timestamp":"2025-07-26T19:13:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"Jai Ambe Car Wash Pune",
+  "amount":164.95
+ },
+ {
+  "timestamp":"2025-07-12T17:17:00",
+  "merchant":"Nykaa",
+  "description":"UPI\/9859248570\/NYKAA\/nykaa@axl\/Payment",
+  "amount":3341.67
+ },
+ {
+  "timestamp":"2025-07-14T14:15:00",
+  "merchant":"Hari Om Footwear",
+  "description":"UPI\/3011858358\/HARIOMFOOTWEAR\/hariomfoot@axl\/Payment",
+  "amount":2049.01
+ },
+ {
+  "timestamp":"2025-07-16T19:17:00",
+  "merchant":"Hari Om Footwear",
+  "description":"ACH D- HARI OM FOOTWEAR VADODARA 941659",
+  "amount":3353.68
+ },
+ {
+  "timestamp":"2025-07-22T15:18:00",
+  "merchant":"Meesho",
+  "description":"MEESHO*ORDER 170735",
+  "amount":766.44
+ },
+ {
+  "timestamp":"2025-07-20T12:08:00",
+  "merchant":"ACT Fibernet",
+  "description":"UPI\/7251495796\/ACTFIBERNET\/actfiberne@paytm\/Payment",
+  "amount":803.85
+ },
+ {
+  "timestamp":"2025-07-23T10:00:00",
+  "merchant":"Spotify",
+  "description":"POS 4696XXXXXX2900 SPOTIFY DELHI",
+  "amount":747.1
+ },
+ {
+  "timestamp":"2025-07-01T14:50:00",
+  "merchant":"Steam",
+  "description":"STEAM*ORDER 911922",
+  "amount":300.46
+ },
+ {
+  "timestamp":"2025-07-23T15:23:00",
+  "merchant":"Anita Rao",
+  "description":"POS 4872XXXXXX7611 ANITA RAO BANGALORE",
+  "amount":524.11
+ },
+ {
+  "timestamp":"2025-07-24T15:13:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"Mahalaxmi Multiplex Chennai",
+  "amount":493.79
+ },
+ {
+  "timestamp":"2025-07-20T13:16:00",
+  "merchant":"BookMyShow",
+  "description":"IMPS-570904-BOOKMYSHOW-GUR",
+  "amount":419.26
+ },
+ {
+  "timestamp":"2025-07-28T14:43:00",
+  "merchant":"Spotify",
+  "description":"IMPS-476411-SPOTIFY-BAN",
+  "amount":462.7
+ },
+ {
+  "timestamp":"2025-07-24T12:53:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"MAHALAXMI MULTIPLEX*ORDER 294522",
+  "amount":766.93
+ },
+ {
+  "timestamp":"2025-07-07T16:27:00",
+  "merchant":"Netmeds",
+  "description":"IMPS-420954-NETMEDS-MUM",
+  "amount":234.35
+ },
+ {
+  "timestamp":"2025-07-06T09:09:00",
+  "merchant":"MedPlus",
+  "description":"IMPS-772254-MEDPLUS-VAD",
+  "amount":229.27
+ },
+ {
+  "timestamp":"2025-07-29T11:35:00",
+  "merchant":"MedPlus",
+  "description":"MedPlus Gurgaon",
+  "amount":1466.89
+ },
+ {
+  "timestamp":"2025-07-12T17:52:00",
+  "merchant":"MedPlus",
+  "description":"UPI\/3100334520\/MEDPLUS\/medplus@okicici\/Payment",
+  "amount":630.6
+ },
+ {
+  "timestamp":"2025-07-09T10:55:00",
+  "merchant":"Star Fitness Club",
+  "description":"POS 4381XXXXXX1702 STAR FITNESS CLUB GURGAON",
+  "amount":309.93
+ },
+ {
+  "timestamp":"2025-07-11T14:16:00",
+  "merchant":"PharmEasy",
+  "description":"PHARMEASY*ORDER 712595",
+  "amount":278.5
+ },
+ {
+  "timestamp":"2025-07-10T15:10:00",
+  "merchant":"Patel Hospital",
+  "description":"Patel Hospital Hyderabad",
+  "amount":529.73
+ },
+ {
+  "timestamp":"2025-07-28T16:33:00",
+  "merchant":"Netmeds",
+  "description":"Netmeds Gurgaon",
+  "amount":1393.19
+ },
+ {
+  "timestamp":"2025-07-09T11:28:00",
+  "merchant":"IRCTC",
+  "description":"POS 4805XXXXXX3008 IRCTC GURGAON",
+  "amount":6536.26
+ },
+ {
+  "timestamp":"2025-07-29T14:55:00",
+  "merchant":"Udemy",
+  "description":"POS 4379XXXXXX6213 UDEMY GURGAON",
+  "amount":1987.53
+ },
+ {
+  "timestamp":"2025-07-14T14:53:00",
+  "merchant":"Galaxy Stationers",
+  "description":"GALAXY STATIONERS*ORDER 236424",
+  "amount":1780.22
+ },
+ {
+  "timestamp":"2025-08-23T10:42:00",
+  "merchant":"Jio Recharge",
+  "description":"JIO RECHARGE*ORDER 925233",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-08-23T09:16:00",
+  "merchant":"Amazon Prime",
+  "description":"POS 4781XXXXXX3805 AMAZON PRIME MUMBAI",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-08-21T09:41:00",
+  "merchant":"Disney Hotstar",
+  "description":"POS 4339XXXXXX6462 DISNEY HOTSTAR PUNE",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-08-23T20:03:00",
+  "merchant":"Starbucks",
+  "description":"IMPS-374184-STARBUCKS-CHE",
+  "amount":367.99
+ },
+ {
+  "timestamp":"2025-08-17T23:13:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 645239",
+  "amount":559.95
+ },
+ {
+  "timestamp":"2025-08-16T21:25:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/8726131280\/HALDIRAMS\/haldirams@paytm\/Payment",
+  "amount":912.63
+ },
+ {
+  "timestamp":"2025-08-13T14:48:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Vadodara",
+  "amount":408.05
+ },
+ {
+  "timestamp":"2025-08-25T19:47:00",
+  "merchant":"Starbucks",
+  "description":"IMPS-859778-STARBUCKS-BAN",
+  "amount":379.4
+ },
+ {
+  "timestamp":"2025-08-06T10:08:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN HYDERABAD 873646",
+  "amount":385.27
+ },
+ {
+  "timestamp":"2025-08-19T19:14:00",
+  "merchant":"Haldirams",
+  "description":"ACH D- HALDIRAMS PUNE 132781",
+  "amount":460.03
+ },
+ {
+  "timestamp":"2025-08-21T12:15:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4803XXXXXX8866 RAJ KITCHEN HYDERABAD",
+  "amount":241.3
+ },
+ {
+  "timestamp":"2025-08-12T23:37:00",
+  "merchant":"Starbucks",
+  "description":"UPI\/1185359909\/STARBUCKS\/starbucks@axl\/Payment",
+  "amount":352.27
+ },
+ {
+  "timestamp":"2025-08-20T20:03:00",
+  "merchant":"McDonalds",
+  "description":"MCDONALDS*ORDER 457216",
+  "amount":264.74
+ },
+ {
+  "timestamp":"2025-08-17T23:43:00",
+  "merchant":"Dominos Pizza",
+  "description":"Dominos Pizza Hyderabad",
+  "amount":539.48
+ },
+ {
+  "timestamp":"2025-08-17T23:00:00",
+  "merchant":"Dominos Pizza",
+  "description":"POS 4832XXXXXX2101 DOMINOS PIZZA BANGALORE",
+  "amount":397.8
+ },
+ {
+  "timestamp":"2025-08-07T23:31:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-235746-RAJKITCHEN-VAD",
+  "amount":591.95
+ },
+ {
+  "timestamp":"2025-08-19T09:19:00",
+  "merchant":"Burger King",
+  "description":"UPI\/5052311538\/BURGERKING\/burgerking@okhdfcbank\/Payment",
+  "amount":762.85
+ },
+ {
+  "timestamp":"2025-08-20T13:30:00",
+  "merchant":"BigBasket",
+  "description":"IMPS-258842-BIGBASKET-HYD",
+  "amount":977.7
+ },
+ {
+  "timestamp":"2025-08-23T19:57:00",
+  "merchant":"JioMart",
+  "description":"ACH D- JIOMART DELHI 260700",
+  "amount":298.94
+ },
+ {
+  "timestamp":"2025-08-16T16:44:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"Bharat Grocery Mart Vadodara",
+  "amount":1824.23
+ },
+ {
+  "timestamp":"2025-08-26T13:58:00",
+  "merchant":"DMart",
+  "description":"IMPS-596249-DMART-GUR",
+  "amount":3180.01
+ },
+ {
+  "timestamp":"2025-08-04T13:11:00",
+  "merchant":"JioMart",
+  "description":"JIOMART*ORDER 441213",
+  "amount":696.38
+ },
+ {
+  "timestamp":"2025-08-06T11:11:00",
+  "merchant":"Nature's Basket",
+  "description":"POS 4490XXXXXX5111 NATURE'S BASKET GURGAON",
+  "amount":1348.31
+ },
+ {
+  "timestamp":"2025-08-13T12:43:00",
+  "merchant":"Delhi Metro",
+  "description":"IMPS-297486-DELHIMETRO-HYD",
+  "amount":318.86
+ },
+ {
+  "timestamp":"2025-08-08T14:39:00",
+  "merchant":"Rapido",
+  "description":"IMPS-520268-RAPIDO-HYD",
+  "amount":835.33
+ },
+ {
+  "timestamp":"2025-08-02T23:38:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"JAI AMBE CAR WASH*ORDER 803209",
+  "amount":358.71
+ },
+ {
+  "timestamp":"2025-08-20T07:22:00",
+  "merchant":"Delhi Metro",
+  "description":"POS 4847XXXXXX9518 DELHI METRO PUNE",
+  "amount":236.29
+ },
+ {
+  "timestamp":"2025-08-07T18:30:00",
+  "merchant":"Indian Oil",
+  "description":"INDIAN OIL*ORDER 389352",
+  "amount":283.12
+ },
+ {
+  "timestamp":"2025-08-17T16:10:00",
+  "merchant":"Rapido",
+  "description":"IMPS-340270-RAPIDO-VAD",
+  "amount":114.97
+ },
+ {
+  "timestamp":"2025-08-23T11:01:00",
+  "merchant":"Pooja Joshi",
+  "description":"POOJA JOSHI*ORDER 399250",
+  "amount":97.39
+ },
+ {
+  "timestamp":"2025-08-29T10:48:00",
+  "merchant":"Rapido",
+  "description":"IMPS-134430-RAPIDO-PUN",
+  "amount":457.38
+ },
+ {
+  "timestamp":"2025-08-04T18:26:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"UPI\/6395916512\/JAIAMBECARWASH\/jaiambecar@ybl\/Payment",
+  "amount":129.5
+ },
+ {
+  "timestamp":"2025-08-01T10:27:00",
+  "merchant":"Hari Om Fuels",
+  "description":"IMPS-221249-HARIOMFUELS-VAD",
+  "amount":525.54
+ },
+ {
+  "timestamp":"2025-08-26T13:27:00",
+  "merchant":"Ola",
+  "description":"ACH D- OLA VADODARA 572600",
+  "amount":299.62
+ },
+ {
+  "timestamp":"2025-08-04T11:26:00",
+  "merchant":"Hari Om Footwear",
+  "description":"Hari Om Footwear Delhi",
+  "amount":3274.05
+ },
+ {
+  "timestamp":"2025-08-04T17:41:00",
+  "merchant":"Hari Om Footwear",
+  "description":"Hari Om Footwear Chennai",
+  "amount":2520.15
+ },
+ {
+  "timestamp":"2025-08-18T10:14:00",
+  "merchant":"Amazon",
+  "description":"Amazon Gurgaon",
+  "amount":745.66
+ },
+ {
+  "timestamp":"2025-08-17T12:04:00",
+  "merchant":"Hari Om Footwear",
+  "description":"ACH D- HARI OM FOOTWEAR DELHI 850759",
+  "amount":2182.86
+ },
+ {
+  "timestamp":"2025-08-09T16:35:00",
+  "merchant":"Meesho",
+  "description":"IMPS-495953-MEESHO-BAN",
+  "amount":4826.86
+ },
+ {
+  "timestamp":"2025-08-31T14:01:00",
+  "merchant":"Nykaa",
+  "description":"Nykaa Delhi",
+  "amount":1178.69
+ },
+ {
+  "timestamp":"2025-08-02T09:42:00",
+  "merchant":"Tata Play",
+  "description":"ACH D- TATA PLAY CHENNAI 858416",
+  "amount":1236.09
+ },
+ {
+  "timestamp":"2025-08-25T13:02:00",
+  "merchant":"MGVCL Electricity",
+  "description":"MGVCL ELECTRICITY*ORDER 850915",
+  "amount":1386.13
+ },
+ {
+  "timestamp":"2025-08-06T10:44:00",
+  "merchant":"Spotify",
+  "description":"UPI\/1876952631\/SPOTIFY\/spotify@okicici\/Payment",
+  "amount":257.8
+ },
+ {
+  "timestamp":"2025-08-03T17:29:00",
+  "merchant":"Sony LIV",
+  "description":"POS 4172XXXXXX7206 SONY LIV VADODARA",
+  "amount":383.05
+ },
+ {
+  "timestamp":"2025-08-07T15:23:00",
+  "merchant":"Mahalaxmi Tours",
+  "description":"MAHALAXMI TOURS*ORDER 386303",
+  "amount":8553.77
+ },
+ {
+  "timestamp":"2025-08-20T21:56:00",
+  "merchant":"Pepperfry",
+  "description":"PEPPERFRY*ORDER 712565",
+  "amount":1302.86
+ },
+ {
+  "timestamp":"2025-09-23T11:43:00",
+  "merchant":"Jio Recharge",
+  "description":"IMPS-621913-JIORECHARGE-BAN",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-09-23T09:05:00",
+  "merchant":"Amazon Prime",
+  "description":"AMAZON PRIME*ORDER 885859",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-09-21T10:50:00",
+  "merchant":"Disney Hotstar",
+  "description":"UPI\/3500496205\/DISNEYHOTSTAR\/disneyhots@axl\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-09-04T13:28:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Mumbai",
+  "amount":136.8
+ },
+ {
+  "timestamp":"2025-09-03T19:48:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4022XXXXXX3332 RAJ KITCHEN MUMBAI",
+  "amount":144.84
+ },
+ {
+  "timestamp":"2025-09-17T09:09:00",
+  "merchant":"Starbucks",
+  "description":"IMPS-927113-STARBUCKS-PUN",
+  "amount":869.23
+ },
+ {
+  "timestamp":"2025-09-01T21:35:00",
+  "merchant":"Burger King",
+  "description":"POS 4081XXXXXX6052 BURGER KING CHENNAI",
+  "amount":263.24
+ },
+ {
+  "timestamp":"2025-09-11T14:23:00",
+  "merchant":"Starbucks",
+  "description":"POS 4118XXXXXX1928 STARBUCKS BANGALORE",
+  "amount":498.11
+ },
+ {
+  "timestamp":"2025-09-14T20:38:00",
+  "merchant":"Haldirams",
+  "description":"IMPS-603311-HALDIRAMS-CHE",
+  "amount":256.83
+ },
+ {
+  "timestamp":"2025-09-08T22:01:00",
+  "merchant":"McDonalds",
+  "description":"MCDONALDS*ORDER 824479",
+  "amount":391.9
+ },
+ {
+  "timestamp":"2025-09-19T13:31:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 311520",
+  "amount":1035.53
+ },
+ {
+  "timestamp":"2025-09-04T10:21:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/3346176611\/HALDIRAMS\/haldirams@paytm\/Payment",
+  "amount":233.9
+ },
+ {
+  "timestamp":"2025-09-12T13:42:00",
+  "merchant":"Haldirams",
+  "description":"HALDIRAMS*ORDER 444295",
+  "amount":333.64
+ },
+ {
+  "timestamp":"2025-09-14T10:05:00",
+  "merchant":"Starbucks",
+  "description":"IMPS-952000-STARBUCKS-BAN",
+  "amount":541.49
+ },
+ {
+  "timestamp":"2025-09-04T12:46:00",
+  "merchant":"Swiggy",
+  "description":"POS 4606XXXXXX8810 SWIGGY DELHI",
+  "amount":185.08
+ },
+ {
+  "timestamp":"2025-09-02T19:04:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-906500-RAJKITCHEN-PUN",
+  "amount":284.13
+ },
+ {
+  "timestamp":"2025-09-21T19:58:00",
+  "merchant":"Dominos Pizza",
+  "description":"ACH D- DOMINOS PIZZA PUNE 821825",
+  "amount":1912.67
+ },
+ {
+  "timestamp":"2025-09-01T22:41:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4880XXXXXX6605 RAJ KITCHEN HYDERABAD",
+  "amount":579.91
+ },
+ {
+  "timestamp":"2025-09-09T20:38:00",
+  "merchant":"Haldirams",
+  "description":"Haldirams Mumbai",
+  "amount":515.98
+ },
+ {
+  "timestamp":"2025-09-09T23:03:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/1922842750\/RAJKITCHEN\/rajkitchen@oksbi\/Payment",
+  "amount":358.36
+ },
+ {
+  "timestamp":"2025-09-22T09:38:00",
+  "merchant":"Chaayos",
+  "description":"POS 4737XXXXXX9241 CHAAYOS CHENNAI",
+  "amount":288.98
+ },
+ {
+  "timestamp":"2025-09-05T12:35:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN HYDERABAD 510443",
+  "amount":238.07
+ },
+ {
+  "timestamp":"2025-09-03T13:03:00",
+  "merchant":"JioMart",
+  "description":"JioMart Mumbai",
+  "amount":740.39
+ },
+ {
+  "timestamp":"2025-09-05T16:50:00",
+  "merchant":"Nature's Basket",
+  "description":"NATURE'S BASKET*ORDER 178403",
+  "amount":776.48
+ },
+ {
+  "timestamp":"2025-09-07T20:17:00",
+  "merchant":"BigBasket",
+  "description":"IMPS-844705-BIGBASKET-GUR",
+  "amount":951.55
+ },
+ {
+  "timestamp":"2025-09-18T07:44:00",
+  "merchant":"More Supermarket",
+  "description":"MORE SUPERMARKET*ORDER 518476",
+  "amount":643.74
+ },
+ {
+  "timestamp":"2025-09-02T14:34:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"UPI\/5974171832\/BHARATGROCERYMART\/bharatgroc@axl\/Payment",
+  "amount":525.54
+ },
+ {
+  "timestamp":"2025-09-28T17:20:00",
+  "merchant":"Kiran Desai",
+  "description":"Kiran Desai Gurgaon",
+  "amount":660.31
+ },
+ {
+  "timestamp":"2025-09-01T16:07:00",
+  "merchant":"Deepak Jain",
+  "description":"ACH D- DEEPAK JAIN CHENNAI 461396",
+  "amount":1060.48
+ },
+ {
+  "timestamp":"2025-09-30T20:21:00",
+  "merchant":"Anita Rao",
+  "description":"ACH D- ANITA RAO GURGAON 764748",
+  "amount":652.55
+ },
+ {
+  "timestamp":"2025-09-23T07:06:00",
+  "merchant":"More Supermarket",
+  "description":"MORE SUPERMARKET*ORDER 996594",
+  "amount":4494.87
+ },
+ {
+  "timestamp":"2025-09-27T10:06:00",
+  "merchant":"HP Petrol Pump",
+  "description":"ACH D- HP PETROL PUMP MUMBAI 209418",
+  "amount":330.03
+ },
+ {
+  "timestamp":"2025-09-27T12:45:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"POS 4925XXXXXX2930 JAI AMBE CAR WASH VADODARA",
+  "amount":170.97
+ },
+ {
+  "timestamp":"2025-09-02T17:13:00",
+  "merchant":"Bharat Petroleum",
+  "description":"BHARAT PETROLEUM*ORDER 625752",
+  "amount":285.31
+ },
+ {
+  "timestamp":"2025-09-18T22:39:00",
+  "merchant":"Hari Om Fuels",
+  "description":"POS 4192XXXXXX1092 HARI OM FUELS HYDERABAD",
+  "amount":567.17
+ },
+ {
+  "timestamp":"2025-09-19T18:37:00",
+  "merchant":"Indian Oil",
+  "description":"Indian Oil Delhi",
+  "amount":819.45
+ },
+ {
+  "timestamp":"2025-09-27T19:26:00",
+  "merchant":"Delhi Metro",
+  "description":"DELHI METRO*ORDER 929627",
+  "amount":250.13
+ },
+ {
+  "timestamp":"2025-09-29T10:49:00",
+  "merchant":"Ola",
+  "description":"ACH D- OLA DELHI 163770",
+  "amount":538.71
+ },
+ {
+  "timestamp":"2025-09-12T09:22:00",
+  "merchant":"Hari Om Fuels",
+  "description":"Hari Om Fuels Pune",
+  "amount":297.37
+ },
+ {
+  "timestamp":"2025-09-10T22:17:00",
+  "merchant":"Hari Om Fuels",
+  "description":"HARI OM FUELS*ORDER 957804",
+  "amount":290.62
+ },
+ {
+  "timestamp":"2025-09-09T16:49:00",
+  "merchant":"Nykaa",
+  "description":"NYKAA*ORDER 179469",
+  "amount":4489.89
+ },
+ {
+  "timestamp":"2025-09-24T16:42:00",
+  "merchant":"Lifestyle",
+  "description":"LIFESTYLE*ORDER 802499",
+  "amount":528.17
+ },
+ {
+  "timestamp":"2025-09-22T14:46:00",
+  "merchant":"Amazon",
+  "description":"ACH D- AMAZON VADODARA 789730",
+  "amount":2415.27
+ },
+ {
+  "timestamp":"2025-09-30T12:59:00",
+  "merchant":"Amazon",
+  "description":"AMAZON*ORDER 861503",
+  "amount":1442.19
+ },
+ {
+  "timestamp":"2025-09-13T16:18:00",
+  "merchant":"Steam",
+  "description":"UPI\/4096496524\/STEAM\/steam@axl\/Payment",
+  "amount":676.3
+ },
+ {
+  "timestamp":"2025-09-30T17:07:00",
+  "merchant":"Spotify",
+  "description":"POS 4983XXXXXX5313 SPOTIFY PUNE",
+  "amount":442.94
+ },
+ {
+  "timestamp":"2025-09-10T09:45:00",
+  "merchant":"Amazon Prime",
+  "description":"AMAZON PRIME*ORDER 248225",
+  "amount":203.64
+ },
+ {
+  "timestamp":"2025-09-28T13:07:00",
+  "merchant":"Sony LIV",
+  "description":"SONY LIV*ORDER 979125",
+  "amount":352.8
+ },
+ {
+  "timestamp":"2025-09-19T16:15:00",
+  "merchant":"Star Fitness Club",
+  "description":"POS 4886XXXXXX9395 STAR FITNESS CLUB DELHI",
+  "amount":633.66
+ },
+ {
+  "timestamp":"2025-09-02T14:44:00",
+  "merchant":"Ramesh Bhai",
+  "description":"Ramesh Bhai Bangalore",
+  "amount":432.27
+ },
+ {
+  "timestamp":"2025-09-14T18:24:00",
+  "merchant":"MedPlus",
+  "description":"POS 4318XXXXXX1017 MEDPLUS CHENNAI",
+  "amount":243.11
+ },
+ {
+  "timestamp":"2025-09-08T15:55:00",
+  "merchant":"MedPlus",
+  "description":"UPI\/4256652868\/MEDPLUS\/medplus@paytm\/Payment",
+  "amount":464.22
+ },
+ {
+  "timestamp":"2025-09-02T22:51:00",
+  "merchant":"Apollo Pharmacy",
+  "description":"IMPS-351747-APOLLOPHARMA-VAD",
+  "amount":245.72
+ },
+ {
+  "timestamp":"2025-09-02T16:32:00",
+  "merchant":"IRCTC",
+  "description":"POS 4647XXXXXX6130 IRCTC DELHI",
+  "amount":12148.58
+ },
+ {
+  "timestamp":"2025-09-02T13:04:00",
+  "merchant":"Neha Singh",
+  "description":"ACH D- NEHA SINGH CHENNAI 175671",
+  "amount":957.47
+ },
+ {
+  "timestamp":"2025-10-23T09:05:00",
+  "merchant":"Jio Recharge",
+  "description":"POS 4368XXXXXX5175 JIO RECHARGE CHENNAI",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-10-23T11:56:00",
+  "merchant":"Amazon Prime",
+  "description":"ACH D- AMAZON PRIME HYDERABAD 648314",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-10-21T10:25:00",
+  "merchant":"Disney Hotstar",
+  "description":"POS 4243XXXXXX6648 DISNEY HOTSTAR HYDERABAD",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-10-31T19:29:00",
+  "merchant":"Burger King",
+  "description":"IMPS-429381-BURGERKING-GUR",
+  "amount":1065.09
+ },
+ {
+  "timestamp":"2025-10-05T09:55:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4154XXXXXX8937 RAJ KITCHEN VADODARA",
+  "amount":91.52
+ },
+ {
+  "timestamp":"2025-10-17T09:24:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4012XXXXXX2953 RAJ KITCHEN VADODARA",
+  "amount":622.85
+ },
+ {
+  "timestamp":"2025-10-26T20:12:00",
+  "merchant":"Dominos Pizza",
+  "description":"Dominos Pizza Bangalore",
+  "amount":172.73
+ },
+ {
+  "timestamp":"2025-10-26T22:00:00",
+  "merchant":"Haldirams",
+  "description":"POS 4229XXXXXX2053 HALDIRAMS PUNE",
+  "amount":376.46
+ },
+ {
+  "timestamp":"2025-10-05T10:29:00",
+  "merchant":"Raj Kitchen",
+  "description":"UPI\/4360081490\/RAJKITCHEN\/rajkitchen@paytm\/Payment",
+  "amount":265.14
+ },
+ {
+  "timestamp":"2025-10-25T22:22:00",
+  "merchant":"Dominos Pizza",
+  "description":"POS 4301XXXXXX3062 DOMINOS PIZZA PUNE",
+  "amount":328.12
+ },
+ {
+  "timestamp":"2025-10-23T09:08:00",
+  "merchant":"Burger King",
+  "description":"Burger King Delhi",
+  "amount":1444.42
+ },
+ {
+  "timestamp":"2025-10-22T14:52:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Bangalore",
+  "amount":172.47
+ },
+ {
+  "timestamp":"2025-10-26T20:26:00",
+  "merchant":"Haldirams",
+  "description":"UPI\/3745842499\/HALDIRAMS\/haldirams@okicici\/Payment",
+  "amount":638.73
+ },
+ {
+  "timestamp":"2025-10-11T09:21:00",
+  "merchant":"Pooja Joshi",
+  "description":"Pooja Joshi Mumbai",
+  "amount":613.55
+ },
+ {
+  "timestamp":"2025-10-02T13:25:00",
+  "merchant":"Chaayos",
+  "description":"ACH D- CHAAYOS VADODARA 444034",
+  "amount":563.77
+ },
+ {
+  "timestamp":"2025-10-11T21:01:00",
+  "merchant":"Dominos Pizza",
+  "description":"UPI\/6055698866\/DOMINOSPIZZA\/dominospiz@okicici\/Payment",
+  "amount":765.96
+ },
+ {
+  "timestamp":"2025-10-06T13:40:00",
+  "merchant":"Burger King",
+  "description":"ACH D- BURGER KING CHENNAI 755066",
+  "amount":649.8
+ },
+ {
+  "timestamp":"2025-10-28T22:55:00",
+  "merchant":"Burger King",
+  "description":"UPI\/6913103573\/BURGERKING\/burgerking@okhdfcbank\/Payment",
+  "amount":324.54
+ },
+ {
+  "timestamp":"2025-10-07T21:15:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Hyderabad",
+  "amount":497.3
+ },
+ {
+  "timestamp":"2025-10-03T22:25:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 859726",
+  "amount":624.52
+ },
+ {
+  "timestamp":"2025-10-30T22:32:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 483522",
+  "amount":420.03
+ },
+ {
+  "timestamp":"2025-10-23T20:16:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-329315-RAJKITCHEN-GUR",
+  "amount":485.03
+ },
+ {
+  "timestamp":"2025-10-19T09:45:00",
+  "merchant":"Raj Kitchen",
+  "description":"Raj Kitchen Delhi",
+  "amount":166.79
+ },
+ {
+  "timestamp":"2025-10-15T21:49:00",
+  "merchant":"Haldirams",
+  "description":"Haldirams Bangalore",
+  "amount":226.96
+ },
+ {
+  "timestamp":"2025-10-03T20:19:00",
+  "merchant":"Anita Rao",
+  "description":"ANITA RAO*ORDER 371200",
+  "amount":365.63
+ },
+ {
+  "timestamp":"2025-10-15T23:55:00",
+  "merchant":"Burger King",
+  "description":"Burger King Delhi",
+  "amount":477.23
+ },
+ {
+  "timestamp":"2025-10-01T20:24:00",
+  "merchant":"Burger King",
+  "description":"UPI\/7461605328\/BURGERKING\/burgerking@axl\/Payment",
+  "amount":231.27
+ },
+ {
+  "timestamp":"2025-10-16T15:44:00",
+  "merchant":"More Supermarket",
+  "description":"IMPS-503665-MORESUPERMAR-GUR",
+  "amount":1917.38
+ },
+ {
+  "timestamp":"2025-10-26T15:04:00",
+  "merchant":"More Supermarket",
+  "description":"IMPS-265424-MORESUPERMAR-PUN",
+  "amount":328.49
+ },
+ {
+  "timestamp":"2025-10-07T12:34:00",
+  "merchant":"More Supermarket",
+  "description":"MORE SUPERMARKET*ORDER 186763",
+  "amount":397.71
+ },
+ {
+  "timestamp":"2025-10-10T20:29:00",
+  "merchant":"More Supermarket",
+  "description":"IMPS-249542-MORESUPERMAR-HYD",
+  "amount":783.27
+ },
+ {
+  "timestamp":"2025-10-23T09:26:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"UPI\/7938635215\/BHARATGROCERYMART\/bharatgroc@axl\/Payment",
+  "amount":542.82
+ },
+ {
+  "timestamp":"2025-10-18T12:03:00",
+  "merchant":"Zepto",
+  "description":"Zepto Mumbai",
+  "amount":737.87
+ },
+ {
+  "timestamp":"2025-10-07T17:08:00",
+  "merchant":"Zepto",
+  "description":"ZEPTO*ORDER 663474",
+  "amount":663.88
+ },
+ {
+  "timestamp":"2025-10-25T19:49:00",
+  "merchant":"Blinkit",
+  "description":"IMPS-780178-BLINKIT-HYD",
+  "amount":653.09
+ },
+ {
+  "timestamp":"2025-10-18T12:56:00",
+  "merchant":"Kiran Desai",
+  "description":"Kiran Desai Bangalore",
+  "amount":488.68
+ },
+ {
+  "timestamp":"2025-10-21T14:11:00",
+  "merchant":"City Provision Store",
+  "description":"CITY PROVISION STORE*ORDER 885141",
+  "amount":511.53
+ },
+ {
+  "timestamp":"2025-10-25T16:43:00",
+  "merchant":"Namma Yatri",
+  "description":"IMPS-988130-NAMMAYATRI-GUR",
+  "amount":219.25
+ },
+ {
+  "timestamp":"2025-10-12T14:26:00",
+  "merchant":"Indian Oil",
+  "description":"INDIAN OIL*ORDER 134698",
+  "amount":279.1
+ },
+ {
+  "timestamp":"2025-10-28T15:56:00",
+  "merchant":"Rapido",
+  "description":"UPI\/5617305263\/RAPIDO\/rapido@okicici\/Payment",
+  "amount":295.97
+ },
+ {
+  "timestamp":"2025-10-16T12:02:00",
+  "merchant":"Delhi Metro",
+  "description":"POS 4647XXXXXX5852 DELHI METRO VADODARA",
+  "amount":146.67
+ },
+ {
+  "timestamp":"2025-10-05T08:37:00",
+  "merchant":"Ola",
+  "description":"UPI\/9729912511\/OLA\/ola@paytm\/Payment",
+  "amount":427.45
+ },
+ {
+  "timestamp":"2025-10-28T22:18:00",
+  "merchant":"Rapido",
+  "description":"POS 4887XXXXXX1594 RAPIDO DELHI",
+  "amount":193.95
+ },
+ {
+  "timestamp":"2025-10-21T23:09:00",
+  "merchant":"Hari Om Fuels",
+  "description":"UPI\/8264075450\/HARIOMFUELS\/hariomfuel@okhdfcbank\/Payment",
+  "amount":387.97
+ },
+ {
+  "timestamp":"2025-10-29T15:42:00",
+  "merchant":"Uber",
+  "description":"IMPS-323346-UBER-CHE",
+  "amount":393.87
+ },
+ {
+  "timestamp":"2025-10-16T16:32:00",
+  "merchant":"Ola",
+  "description":"ACH D- OLA PUNE 724086",
+  "amount":601.58
+ },
+ {
+  "timestamp":"2025-10-24T15:47:00",
+  "merchant":"Rapido",
+  "description":"IMPS-918164-RAPIDO-VAD",
+  "amount":223.54
+ },
+ {
+  "timestamp":"2025-10-06T14:45:00",
+  "merchant":"Delhi Metro",
+  "description":"POS 4863XXXXXX6664 DELHI METRO HYDERABAD",
+  "amount":391.73
+ },
+ {
+  "timestamp":"2025-10-13T17:16:00",
+  "merchant":"Neha Singh",
+  "description":"IMPS-826405-NEHASINGH-PUN",
+  "amount":146.95
+ },
+ {
+  "timestamp":"2025-10-24T18:02:00",
+  "merchant":"Reliance Digital",
+  "description":"ACH D- RELIANCE DIGITAL BANGALORE 994468",
+  "amount":2029.71
+ },
+ {
+  "timestamp":"2025-10-11T11:12:00",
+  "merchant":"Amazon",
+  "description":"POS 4768XXXXXX7989 AMAZON BANGALORE",
+  "amount":322.34
+ },
+ {
+  "timestamp":"2025-10-05T08:42:00",
+  "merchant":"Krishna Garments",
+  "description":"POS 4771XXXXXX2344 KRISHNA GARMENTS CHENNAI",
+  "amount":1174.81
+ },
+ {
+  "timestamp":"2025-10-24T13:56:00",
+  "merchant":"Nykaa",
+  "description":"UPI\/5857504043\/NYKAA\/nykaa@paytm\/Payment",
+  "amount":1914.57
+ },
+ {
+  "timestamp":"2025-10-07T20:41:00",
+  "merchant":"Hari Om Footwear",
+  "description":"ACH D- HARI OM FOOTWEAR VADODARA 409084",
+  "amount":964.05
+ },
+ {
+  "timestamp":"2025-10-08T12:54:00",
+  "merchant":"Tata Play",
+  "description":"ACH D- TATA PLAY CHENNAI 740436",
+  "amount":1139.8
+ },
+ {
+  "timestamp":"2025-10-16T14:12:00",
+  "merchant":"BookMyShow",
+  "description":"BookMyShow Chennai",
+  "amount":126.03
+ },
+ {
+  "timestamp":"2025-10-29T20:19:00",
+  "merchant":"Spotify",
+  "description":"IMPS-573908-SPOTIFY-CHE",
+  "amount":362.72
+ },
+ {
+  "timestamp":"2025-10-08T15:57:00",
+  "merchant":"Netflix",
+  "description":"IMPS-408754-NETFLIX-DEL",
+  "amount":381.61
+ },
+ {
+  "timestamp":"2025-10-16T16:01:00",
+  "merchant":"Shiv Shakti Bowling",
+  "description":"IMPS-619176-SHIVSHAKTIBO-VAD",
+  "amount":394.94
+ },
+ {
+  "timestamp":"2025-10-17T12:07:00",
+  "merchant":"Ramesh Bhai",
+  "description":"POS 4382XXXXXX8460 RAMESH BHAI MUMBAI",
+  "amount":1041.3
+ },
+ {
+  "timestamp":"2025-10-20T14:29:00",
+  "merchant":"Star Fitness Club",
+  "description":"UPI\/6199113907\/STARFITNESSCLUB\/starfitnes@axl\/Payment",
+  "amount":3108.02
+ },
+ {
+  "timestamp":"2025-10-08T16:21:00",
+  "merchant":"Star Fitness Club",
+  "description":"UPI\/5129028470\/STARFITNESSCLUB\/starfitnes@paytm\/Payment",
+  "amount":227.02
+ },
+ {
+  "timestamp":"2025-10-18T16:15:00",
+  "merchant":"PharmEasy",
+  "description":"PharmEasy Gurgaon",
+  "amount":482.65
+ },
+ {
+  "timestamp":"2025-10-09T13:39:00",
+  "merchant":"Pepperfry",
+  "description":"ACH D- PEPPERFRY HYDERABAD 416541",
+  "amount":1694.68
+ },
+ {
+  "timestamp":"2025-10-28T13:15:00",
+  "merchant":"Home Centre",
+  "description":"POS 4993XXXXXX1713 HOME CENTRE CHENNAI",
+  "amount":2646.83
+ },
+ {
+  "timestamp":"2025-10-12T13:23:00",
+  "merchant":"Laxmi Electricals",
+  "description":"ACH D- LAXMI ELECTRICALS MUMBAI 644700",
+  "amount":547.81
+ },
+ {
+  "timestamp":"2025-11-23T10:25:00",
+  "merchant":"Jio Recharge",
+  "description":"UPI\/8130684587\/JIORECHARGE\/jiorecharg@oksbi\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-11-23T09:18:00",
+  "merchant":"Amazon Prime",
+  "description":"POS 4603XXXXXX4634 AMAZON PRIME VADODARA",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-11-21T09:07:00",
+  "merchant":"Disney Hotstar",
+  "description":"DISNEY HOTSTAR*ORDER 879348",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-11-27T19:11:00",
+  "merchant":"Chaayos",
+  "description":"POS 4966XXXXXX3348 CHAAYOS PUNE",
+  "amount":465.52
+ },
+ {
+  "timestamp":"2025-11-14T10:30:00",
+  "merchant":"Starbucks",
+  "description":"ACH D- STARBUCKS MUMBAI 264345",
+  "amount":217.71
+ },
+ {
+  "timestamp":"2025-11-25T09:23:00",
+  "merchant":"Burger King",
+  "description":"ACH D- BURGER KING DELHI 636958",
+  "amount":195.96
+ },
+ {
+  "timestamp":"2025-11-06T13:06:00",
+  "merchant":"Dominos Pizza",
+  "description":"IMPS-822867-DOMINOSPIZZA-VAD",
+  "amount":530.65
+ },
+ {
+  "timestamp":"2025-11-12T22:58:00",
+  "merchant":"Dominos Pizza",
+  "description":"ACH D- DOMINOS PIZZA VADODARA 841410",
+  "amount":322.64
+ },
+ {
+  "timestamp":"2025-11-05T20:03:00",
+  "merchant":"KFC",
+  "description":"KFC Bangalore",
+  "amount":398.36
+ },
+ {
+  "timestamp":"2025-11-29T09:06:00",
+  "merchant":"Chaayos",
+  "description":"CHAAYOS*ORDER 355107",
+  "amount":310.62
+ },
+ {
+  "timestamp":"2025-11-25T13:15:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4361XXXXXX9993 RAJ KITCHEN CHENNAI",
+  "amount":640.36
+ },
+ {
+  "timestamp":"2025-11-27T20:44:00",
+  "merchant":"Haldirams",
+  "description":"POS 4248XXXXXX2199 HALDIRAMS GURGAON",
+  "amount":557.13
+ },
+ {
+  "timestamp":"2025-11-12T14:00:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-700725-RAJKITCHEN-PUN",
+  "amount":538.51
+ },
+ {
+  "timestamp":"2025-11-01T22:11:00",
+  "merchant":"Haldirams",
+  "description":"HALDIRAMS*ORDER 892054",
+  "amount":221.8
+ },
+ {
+  "timestamp":"2025-11-05T20:58:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 664138",
+  "amount":308.51
+ },
+ {
+  "timestamp":"2025-11-01T19:31:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN VADODARA 362758",
+  "amount":521.62
+ },
+ {
+  "timestamp":"2025-11-20T14:17:00",
+  "merchant":"Blinkit",
+  "description":"ACH D- BLINKIT PUNE 204642",
+  "amount":618.9
+ },
+ {
+  "timestamp":"2025-11-03T11:17:00",
+  "merchant":"More Supermarket",
+  "description":"UPI\/3151032122\/MORESUPERMARKET\/moresuperm@oksbi\/Payment",
+  "amount":658.03
+ },
+ {
+  "timestamp":"2025-11-09T12:14:00",
+  "merchant":"City Provision Store",
+  "description":"ACH D- CITY PROVISION STORE MUMBAI 565643",
+  "amount":1590.96
+ },
+ {
+  "timestamp":"2025-11-02T10:41:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"BHARAT GROCERY MART*ORDER 952597",
+  "amount":1882.52
+ },
+ {
+  "timestamp":"2025-11-20T10:54:00",
+  "merchant":"JioMart",
+  "description":"UPI\/4975501290\/JIOMART\/jiomart@oksbi\/Payment",
+  "amount":1169.49
+ },
+ {
+  "timestamp":"2025-11-10T18:17:00",
+  "merchant":"City Provision Store",
+  "description":"CITY PROVISION STORE*ORDER 401896",
+  "amount":627.11
+ },
+ {
+  "timestamp":"2025-11-02T17:55:00",
+  "merchant":"More Supermarket",
+  "description":"UPI\/9307256051\/MORESUPERMARKET\/moresuperm@okicici\/Payment",
+  "amount":188.76
+ },
+ {
+  "timestamp":"2025-11-28T19:29:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"UPI\/7251647235\/BHARATGROCERYMART\/bharatgroc@ybl\/Payment",
+  "amount":1421.08
+ },
+ {
+  "timestamp":"2025-11-14T11:55:00",
+  "merchant":"Bharat Grocery Mart",
+  "description":"BHARAT GROCERY MART*ORDER 933721",
+  "amount":986.77
+ },
+ {
+  "timestamp":"2025-11-21T20:39:00",
+  "merchant":"Nature's Basket",
+  "description":"NATURE'S BASKET*ORDER 474342",
+  "amount":808.52
+ },
+ {
+  "timestamp":"2025-11-08T23:22:00",
+  "merchant":"Delhi Metro",
+  "description":"DELHI METRO*ORDER 643801",
+  "amount":291.84
+ },
+ {
+  "timestamp":"2025-11-29T08:29:00",
+  "merchant":"Rapido",
+  "description":"RAPIDO*ORDER 648607",
+  "amount":195.3
+ },
+ {
+  "timestamp":"2025-11-16T16:00:00",
+  "merchant":"Jai Ambe Car Wash",
+  "description":"Jai Ambe Car Wash Delhi",
+  "amount":578.99
+ },
+ {
+  "timestamp":"2025-11-27T12:44:00",
+  "merchant":"Hari Om Fuels",
+  "description":"POS 4827XXXXXX7138 HARI OM FUELS GURGAON",
+  "amount":567.15
+ },
+ {
+  "timestamp":"2025-11-28T21:19:00",
+  "merchant":"Rapido",
+  "description":"UPI\/1537562475\/RAPIDO\/rapido@oksbi\/Payment",
+  "amount":551.8
+ },
+ {
+  "timestamp":"2025-11-13T19:09:00",
+  "merchant":"Rapido",
+  "description":"RAPIDO*ORDER 621322",
+  "amount":871.69
+ },
+ {
+  "timestamp":"2025-11-15T14:40:00",
+  "merchant":"Ola",
+  "description":"OLA*ORDER 544996",
+  "amount":301.78
+ },
+ {
+  "timestamp":"2025-11-09T18:08:00",
+  "merchant":"Hari Om Fuels",
+  "description":"HARI OM FUELS*ORDER 261113",
+  "amount":110.28
+ },
+ {
+  "timestamp":"2025-11-27T19:34:00",
+  "merchant":"Hari Om Fuels",
+  "description":"POS 4122XXXXXX2405 HARI OM FUELS PUNE",
+  "amount":227.6
+ },
+ {
+  "timestamp":"2025-11-15T12:11:00",
+  "merchant":"Amazon",
+  "description":"AMAZON*ORDER 532808",
+  "amount":1926.32
+ },
+ {
+  "timestamp":"2025-11-08T08:57:00",
+  "merchant":"Decathlon",
+  "description":"IMPS-806663-DECATHLON-HYD",
+  "amount":322.42
+ },
+ {
+  "timestamp":"2025-11-11T11:57:00",
+  "merchant":"Nykaa",
+  "description":"Nykaa Pune",
+  "amount":1369.59
+ },
+ {
+  "timestamp":"2025-11-12T10:14:00",
+  "merchant":"Nykaa",
+  "description":"NYKAA*ORDER 289152",
+  "amount":2358.21
+ },
+ {
+  "timestamp":"2025-11-29T09:38:00",
+  "merchant":"Tata Play",
+  "description":"Tata Play Mumbai",
+  "amount":1189.6
+ },
+ {
+  "timestamp":"2025-11-22T12:41:00",
+  "merchant":"Mahalaxmi Telecom",
+  "description":"POS 4932XXXXXX1674 MAHALAXMI TELECOM HYDERABAD",
+  "amount":1051.45
+ },
+ {
+  "timestamp":"2025-11-09T12:11:00",
+  "merchant":"Khodiyar Telecom",
+  "description":"ACH D- KHODIYAR TELECOM VADODARA 881181",
+  "amount":687.21
+ },
+ {
+  "timestamp":"2025-11-27T18:36:00",
+  "merchant":"Sony LIV",
+  "description":"POS 4149XXXXXX6960 SONY LIV VADODARA",
+  "amount":598.95
+ },
+ {
+  "timestamp":"2025-11-15T13:42:00",
+  "merchant":"Shiv Shakti Bowling",
+  "description":"IMPS-700177-SHIVSHAKTIBO-VAD",
+  "amount":623.83
+ },
+ {
+  "timestamp":"2025-11-26T17:00:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"ACH D- MAHALAXMI MULTIPLEX MUMBAI 316201",
+  "amount":518.43
+ },
+ {
+  "timestamp":"2025-11-19T21:31:00",
+  "merchant":"Mahalaxmi Multiplex",
+  "description":"UPI\/6082458273\/MAHALAXMIMULTIPLEX\/mahalaxmim@paytm\/Payment",
+  "amount":348.46
+ },
+ {
+  "timestamp":"2025-11-03T10:31:00",
+  "merchant":"Amazon Prime",
+  "description":"IMPS-690455-AMAZONPRIME-VAD",
+  "amount":661.23
+ },
+ {
+  "timestamp":"2025-11-08T12:03:00",
+  "merchant":"Amazon Prime",
+  "description":"UPI\/9277171457\/AMAZONPRIME\/amazonprim@paytm\/Payment",
+  "amount":782.55
+ },
+ {
+  "timestamp":"2025-11-16T08:00:00",
+  "merchant":"IRCTC",
+  "description":"IMPS-294771-IRCTC-DEL",
+  "amount":3379.97
+ },
+ {
+  "timestamp":"2025-12-23T10:58:00",
+  "merchant":"Jio Recharge",
+  "description":"UPI\/4630198717\/JIORECHARGE\/jiorecharg@ybl\/Payment",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-12-23T11:15:00",
+  "merchant":"Amazon Prime",
+  "description":"POS 4162XXXXXX7319 AMAZON PRIME DELHI",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-12-21T09:07:00",
+  "merchant":"Disney Hotstar",
+  "description":"IMPS-729489-DISNEYHOTSTA-HYD",
+  "amount":299.0
+ },
+ {
+  "timestamp":"2025-12-28T10:06:00",
+  "merchant":"Ravi Verma",
+  "description":"ACH D- RAVI VERMA HYDERABAD 813856",
+  "amount":708.16
+ },
+ {
+  "timestamp":"2025-12-24T19:03:00",
+  "merchant":"KFC",
+  "description":"POS 4773XXXXXX6716 KFC HYDERABAD",
+  "amount":375.23
+ },
+ {
+  "timestamp":"2025-12-03T12:21:00",
+  "merchant":"Dominos Pizza",
+  "description":"IMPS-994192-DOMINOSPIZZA-MUM",
+  "amount":349.21
+ },
+ {
+  "timestamp":"2025-12-25T23:33:00",
+  "merchant":"Haldirams",
+  "description":"POS 4140XXXXXX9269 HALDIRAMS CHENNAI",
+  "amount":299.86
+ },
+ {
+  "timestamp":"2025-12-21T21:16:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 874696",
+  "amount":220.17
+ },
+ {
+  "timestamp":"2025-12-16T03:49:00",
+  "merchant":"Burger King",
+  "description":"Burger King Vadodara",
+  "amount":17772.18
+ },
+ {
+  "timestamp":"2025-12-30T21:06:00",
+  "merchant":"Dominos Pizza",
+  "description":"Dominos Pizza Delhi",
+  "amount":1028.34
+ },
+ {
+  "timestamp":"2025-12-19T13:07:00",
+  "merchant":"Haldirams",
+  "description":"POS 4315XXXXXX2390 HALDIRAMS BANGALORE",
+  "amount":593.12
+ },
+ {
+  "timestamp":"2025-12-23T21:33:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-904829-RAJKITCHEN-HYD",
+  "amount":1538.57
+ },
+ {
+  "timestamp":"2025-12-31T22:50:00",
+  "merchant":"Raj Kitchen",
+  "description":"ACH D- RAJ KITCHEN MUMBAI 237263",
+  "amount":184.13
+ },
+ {
+  "timestamp":"2025-12-14T19:30:00",
+  "merchant":"Raj Kitchen",
+  "description":"POS 4666XXXXXX5860 RAJ KITCHEN PUNE",
+  "amount":284.32
+ },
+ {
+  "timestamp":"2025-12-11T23:19:00",
+  "merchant":"Haldirams",
+  "description":"IMPS-626271-HALDIRAMS-DEL",
+  "amount":618.37
+ },
+ {
+  "timestamp":"2025-12-31T13:09:00",
+  "merchant":"Starbucks",
+  "description":"Starbucks Chennai",
+  "amount":776.28
+ },
+ {
+  "timestamp":"2025-12-27T22:14:00",
+  "merchant":"Starbucks",
+  "description":"Starbucks Gurgaon",
+  "amount":169.02
+ },
+ {
+  "timestamp":"2025-12-12T23:46:00",
+  "merchant":"Raj Kitchen",
+  "description":"IMPS-309315-RAJKITCHEN-DEL",
+  "amount":1192.05
+ },
+ {
+  "timestamp":"2025-12-07T23:24:00",
+  "merchant":"Haldirams",
+  "description":"POS 4887XXXXXX8885 HALDIRAMS GURGAON",
+  "amount":117.8
+ },
+ {
+  "timestamp":"2025-12-07T23:19:00",
+  "merchant":"Starbucks",
+  "description":"STARBUCKS*ORDER 957805",
+  "amount":379.28
+ },
+ {
+  "timestamp":"2025-12-01T09:48:00",
+  "merchant":"Dominos Pizza",
+  "description":"DOMINOS PIZZA*ORDER 636402",
+  "amount":445.54
+ },
+ {
+  "timestamp":"2025-12-31T10:32:00",
+  "merchant":"Raj Kitchen",
+  "description":"RAJ KITCHEN*ORDER 625978",
+  "amount":97.51
+ },
+ {
+  "timestamp":"2025-12-18T19:11:00",
+  "merchant":"Starbucks",
+  "description":"POS 4012XXXXXX7552 STARBUCKS BANGALORE",
+  "amount":623.35
+ },
+ {
+  "timestamp":"2025-12-08T21:42:00",
+  "merchant":"Sunil Rana",
+  "description":"IMPS-549819-SUNILRANA-DEL",
+  "amount":354.43
+ },
+ {
+  "timestamp":"2025-12-22T16:07:00",
+  "merchant":"More Supermarket",
+  "description":"ACH D- MORE SUPERMARKET VADODARA 117681",
+  "amount":1645.07
+ },
+ {
+  "timestamp":"2025-12-29T23:57:00",
+  "merchant":"BigBasket",
+  "description":"POS 4311XXXXXX5032 BIGBASKET HYDERABAD",
+  "amount":792.09
+ },
+ {
+  "timestamp":"2025-12-26T16:36:00",
+  "merchant":"DMart",
+  "description":"POS 4149XXXXXX8939 DMART GURGAON",
+  "amount":435.4
+ },
+ {
+  "timestamp":"2025-12-10T12:42:00",
+  "merchant":"City Provision Store",
+  "description":"POS 4394XXXXXX1436 CITY PROVISION STORE HYDERABAD",
+  "amount":1065.27
+ },
+ {
+  "timestamp":"2025-12-09T16:02:00",
+  "merchant":"Delhi Metro",
+  "description":"Delhi Metro Pune",
+  "amount":300.6
+ },
+ {
+  "timestamp":"2025-12-16T15:42:00",
+  "merchant":"Ola",
+  "description":"IMPS-147698-OLA-BAN",
+  "amount":109.3
+ },
+ {
+  "timestamp":"2025-12-05T09:04:00",
+  "merchant":"Manoj Gupta",
+  "description":"POS 4240XXXXXX2450 MANOJ GUPTA VADODARA",
+  "amount":94.62
+ },
+ {
+  "timestamp":"2025-12-04T14:08:00",
+  "merchant":"Indian Oil",
+  "description":"IMPS-368289-INDIANOIL-BAN",
+  "amount":424.14
+ },
+ {
+  "timestamp":"2025-12-17T15:05:00",
+  "merchant":"Hari Om Fuels",
+  "description":"UPI\/7969523598\/HARIOMFUELS\/hariomfuel@paytm\/Payment",
+  "amount":349.7
+ },
+ {
+  "timestamp":"2025-12-13T14:23:00",
+  "merchant":"Amazon",
+  "description":"IMPS-690920-AMAZON-CHE",
+  "amount":2802.8
+ },
+ {
+  "timestamp":"2025-12-09T10:17:00",
+  "merchant":"Meesho",
+  "description":"UPI\/3414056664\/MEESHO\/meesho@axl\/Payment",
+  "amount":2446.17
+ },
+ {
+  "timestamp":"2025-12-01T15:34:00",
+  "merchant":"Tata Power",
+  "description":"IMPS-511867-TATAPOWER-BAN",
+  "amount":1514.77
+ },
+ {
+  "timestamp":"2025-12-19T09:53:00",
+  "merchant":"Tata Play",
+  "description":"ACH D- TATA PLAY PUNE 353064",
+  "amount":3104.08
+ },
+ {
+  "timestamp":"2025-12-02T10:18:00",
+  "merchant":"Khodiyar Telecom",
+  "description":"POS 4691XXXXXX6326 KHODIYAR TELECOM GURGAON",
+  "amount":1384.38
+ },
+ {
+  "timestamp":"2025-12-24T12:00:00",
+  "merchant":"Mahanagar Gas",
+  "description":"POS 4134XXXXXX2813 MAHANAGAR GAS DELHI",
+  "amount":679.28
+ },
+ {
+  "timestamp":"2025-12-07T14:36:00",
+  "merchant":"Shiv Shakti Bowling",
+  "description":"SHIV SHAKTI BOWLING*ORDER 141993",
+  "amount":668.2
+ },
+ {
+  "timestamp":"2025-12-06T10:39:00",
+  "merchant":"Netmeds",
+  "description":"ACH D- NETMEDS MUMBAI 372958",
+  "amount":2613.39
+ },
+ {
+  "timestamp":"2025-12-03T21:11:00",
+  "merchant":"Apollo Pharmacy",
+  "description":"Apollo Pharmacy Vadodara",
+  "amount":581.09
+ },
+ {
+  "timestamp":"2025-12-18T15:55:00",
+  "merchant":"IRCTC",
+  "description":"IRCTC*ORDER 426199",
+  "amount":8471.83
+ },
+ {
+  "timestamp":"2025-12-05T17:34:00",
+  "merchant":"IRCTC",
+  "description":"POS 4394XXXXXX4966 IRCTC HYDERABAD",
+  "amount":2468.07
+ }
+]
